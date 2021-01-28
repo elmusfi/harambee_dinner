@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0"
- xml:lang="en">
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_customization.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_customization.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>TEI with maximal setup</title>
-    <author>Sebastian Rahtz</author>
+    <title>TEI Customization for the Harambee Dinner Customization</title>
+    <author xml:id="ERW">Elizabeth Rose Wheeler</author>
    </titleStmt>
    <publicationStmt>
     <publisher>TEI Consortium</publisher>
@@ -42,15 +44,15 @@
     <!-- required -->
     <!-- required -->
     <moduleRef key="core"
-     except="abbr add addrLine address analytic author bibl biblScope biblStruct binaryObject cb choice cit citedRange corr del desc distinct divGen editor email emph expan gap gb gloss graphic headItem headLabel hi imprint index l label lb lg listBibl measure measureGrp media meeting mentioned milestone monogr num orig postBox postCode ptr pubPlace publisher q ref reg relatedItem rs said series sic soCalled sp speaker stage street teiCorpus term textLang time unclear unit"/>
+     except="abbr add addrLine address analytic binaryObject cb choice cit citedRange corr del desc distinct divGen expan gap gb gloss headItem headLabel hi imprint index l label lb lg measure measureGrp media meeting mentioned milestone monogr num orig postBox postCode ptr pubPlace publisher q ref reg relatedItem rs said series sic soCalled sp speaker stage street teiCorpus term textLang time unclear unit"/>
     <moduleRef key="header"
-     except="abstract appInfo application authority availability biblFull cRefPattern calendar calendarDesc catDesc catRef category change classCode classDecl correction correspAction correspContext correspDesc creation distributor edition editionStmt editorialDecl extent funder geoDecl handNote hyphenation idno interpretation keywords langUsage language licence listChange listPrefixDef namespace normalization prefixDef principal profileDesc projectDesc punctuation quotation refState refsDecl rendition revisionDesc samplingDecl schemaRef scriptNote segmentation seriesStmt sponsor stdVals styleDefDecl tagUsage tagsDecl taxonomy textClass xenoData"/>
+     except="appInfo application authority availability biblFull cRefPattern calendar calendarDesc catDesc catRef category change classCode classDecl correction correspAction correspContext correspDesc creation distributor edition editionStmt editorialDecl extent funder geoDecl handNote hyphenation idno interpretation keywords langUsage language licence listChange listPrefixDef namespace normalization prefixDef principal  projectDesc punctuation quotation refState refsDecl rendition revisionDesc samplingDecl schemaRef scriptNote segmentation seriesStmt sponsor stdVals styleDefDecl tagUsage tagsDecl taxonomy textClass xenoData"/>
     <moduleRef key="linking" except="alt altGrp anchor join joinGrp link linkGrp seg timeline when"/>
-    <moduleRef key="namesdates"
-     except="addName affiliation age birth bloc climate country death district education event faith floruit forename genName geo geogFeat geogName langKnowledge langKnown listEvent listNym listOrg listPerson listPlace listRelation location nameLink nationality nym occupation org person personGrp persona place population region relation residence settlement sex socecStatus state surname terrain trait"/>
+    <moduleRef key="namesdates"/>
     <moduleRef key="textstructure"
      except="argument back byline closer dateline div1 div2 div3 div4 div5 div6 div7 docAuthor docDate docEdition docImprint docTitle epigraph floatingText front imprimatur opener postscript salute signed titlePage titlePart trailer"
     />
+    <moduleRef key="transcr"/>
    </schemaSpec>
   </body>
  </text>
