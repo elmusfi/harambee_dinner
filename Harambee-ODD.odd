@@ -44,7 +44,7 @@
     <!-- required -->
     <!-- required -->
     <moduleRef key="core"
-     except="abbr add addrLine address analytic binaryObject cb choice cit citedRange corr del desc distinct divGen expan gap gb gloss headItem headLabel hi imprint index l label lb lg measure measureGrp media meeting mentioned milestone monogr num orig postBox postCode ptr pubPlace publisher q ref reg relatedItem rs said series sic soCalled sp speaker stage street teiCorpus term textLang time unclear unit"/>
+     except="abbr add addrLine address analytic binaryObject cb choice cit citedRange corr del distinct divGen expan gap gb gloss headItem headLabel hi imprint index l label lb lg measure measureGrp media meeting mentioned milestone monogr num orig postBox postCode ptr pubPlace publisher q ref reg relatedItem rs said series sic soCalled sp speaker stage street teiCorpus term textLang time unclear unit"/>
     <moduleRef key="header"
      except="appInfo application authority availability biblFull cRefPattern calendar calendarDesc catDesc catRef category change classCode classDecl correction correspAction correspContext correspDesc creation distributor edition editionStmt editorialDecl extent funder geoDecl handNote hyphenation idno interpretation keywords langUsage language licence listChange listPrefixDef namespace normalization prefixDef principal  projectDesc punctuation quotation refState refsDecl rendition revisionDesc samplingDecl schemaRef scriptNote segmentation seriesStmt sponsor stdVals styleDefDecl tagUsage tagsDecl taxonomy textClass xenoData"/>
     <moduleRef key="linking" except="alt altGrp anchor join joinGrp link linkGrp seg timeline when"/>
