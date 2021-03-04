@@ -8,7 +8,7 @@
                 <title>Harambee Dinner Programs</title>
                 <editor xml:id="ERW">Elizabeth Rose Wheeler</editor>
                 <respStmt>
-                    <resp>Taught editor TEI, advised on document</resp>
+                    <resp>Taught the editor TEI, advised on document</resp>
                     <name xml:id="AM">Dr. Aaron Mauro</name>
                 </respStmt>
                 <respStmt>
@@ -19,6 +19,7 @@
             
             <publicationStmt>
                 <p>Produced as final project in DIGIT 110 class at Penn State Behrend.</p>
+                <p>Revised spring 2021 for internet release.</p>
             </publicationStmt>
           
             <notesStmt>
@@ -131,9 +132,7 @@
         <group>
             <text xml:id="HDP2001">
                 <body>
-                    <pb facs="images/hdp_2001-01" n="1"/>
-                    <!--2020-01-28 ebb: So here's a @facs attribute doing an example pointing into your Pictures/ directory for 
-                    a first image file (by fake filename).-->
+                    <pb facs="images/hdp_2001-01.jpg" n="1"/>
                     <div type="frontPage">
                         <p>HARAMBEE Dinner <date when="2001">2001</date></p>
                         <p>"Celebrate Diversity”</p>
@@ -145,7 +144,7 @@
                         <p> Penn State Erie the Behrend College <placeName>Reed Commons</placeName>
                         </p>
                     </div>
-                    <pb facs="images/hdp_2001-02" n="2"/>
+                    <pb facs="images/hdp_2001-02.jpg" n="2"/>
                     <div type="itinerary">
                         <div type="event">
                             <p>Welcome- <persName>Jacqueline Jackson</persName> &amp;
@@ -180,7 +179,7 @@
                             <p>Benediction- <persName>Duane Ramseur</persName></p>
                         </div>
                     </div>
-                    <pb facs="images/hdp_2001-03" n="3"/>
+                    <pb facs="images/hdp_2001-03.jpg" n="3"/>
                     <div type="menu">
                         <head>Menu</head>
                         <list>
@@ -200,7 +199,7 @@
                             <item>Marble Cake with Butter Cream Icing</item>
                         </list>
                     </div>
-                    <pb facs="images/hdp_2001-04" n="4"/>
+                    <pb facs="images/hdp_2001-04.jpg" n="4"/>
                     <div type="specialThanks">
                         <p>Special Thanks</p>
                         <list>
@@ -261,7 +260,7 @@
             </text>
             <text xml:id="HDP2003">
                 <body>
-                    <pb facs="images/hdp_2003-01" n="1"/>
+                    <pb facs="images/hdp_2003-01.jpg" n="1"/>
                     <div type="frontPage">
                         <p>Welcome 17th Annual Harambee <date when="2003-10-03">Friday, October 3,
                                 2003</date></p>
@@ -273,7 +272,7 @@
                             richness of diversity that is represented among our students, faculty,
                             and staff. </p>
                     </div>
-                    <pb facs="images/hdp_2003-02" n="2"/>
+                    <pb facs="images/hdp_2003-02.jpg" n="2"/>
    <!--2021-01-28 ebb: Suggestion: Try using TEI P5 epigraph coding for cited quotations appearing at the top of a document:
  <epigraph>
   <cit>
@@ -321,7 +320,7 @@
                             <item>Marble Sheet Cake</item>
                         </list>
                     </div>
-                    <pb facs="images/hdp_2003-03" n="3"/>
+                    <pb facs="images/hdp_2003-03.jpg" n="3"/>
                     <div type="itinerary">
                         <div type="event">
                             <head>Welcome</head>
@@ -366,7 +365,7 @@
                             <p> Ms. <persName>Tabitha Chase</persName></p>
                         </div>
                     </div>
-                    <pb facs="images/hdp_2003-04" n="4"/>
+                    <pb facs="images/hdp_2003-04.jpg" n="4"/>
                     <div type="specialThanks">
                         <p>Special Thank you</p>
                         <list>
@@ -406,7 +405,7 @@
             </text>
             <text xml:id="HDP2008">
                 <body>
-                    <pb facs="images/hdp_2008-01" n="1"/>
+                    <pb facs="images/hdp_2008-01.jpg" n="1"/>
                     <div type="frontPage">
                         <p>Harambee 2008</p>
                         <p>*Celebrating 22 years of Unity at Behrend*</p>
@@ -433,7 +432,7 @@
                             <item>Marble Sheet Cake</item>
                         </list>
                     </div>
-                    <pb facs="images/hdp_2008-02" n="2"/>
+                    <pb facs="images/hdp_2008-02.jpg" n="2"/>
                     <div type="itinerary">
                         <div type="event">
                             <head>WELCOME</head>
@@ -491,7 +490,7 @@
             </text>
             <text xml:id="HDP2009">
                 <body>
-                    <pb facs="images/hdp_2009-01" n="1"/>
+                    <pb facs="images/hdp_2009-01.jpg" n="1"/>
                     <div type="frontPage">
                         <p>Welcome 23rd Annual Harambee <date when="2009-10-15">Thursday, October
                                 15, 2009</date></p>
@@ -503,7 +502,7 @@
                             richness of diversity that is represented among our students, faculty,
                             and staff. </p>
                     </div>
-                    <pb facs="images/hdp_2009-02" n="2"/>
+                    <pb facs="images/hdp_2009-02.jpg" n="2"/>
                     <div type="quote">
                         <head>UNITY</head>
                         <quote>Majestic moon and splendid sun, all a part of everyone.</quote>
@@ -530,7 +529,7 @@
                             <item>Marble Sheet Cake</item>
                         </list>
                     </div>
-                    <pb facs="images/hdp_2009-03" n="3"/>
+                    <pb facs="images/hdp_2009-03.jpg" n="3"/>
                     <div type="itinerary">
                         <div type="event">
                             <head>Welcome</head>
@@ -578,7 +577,7 @@
                             <p><orgName ref="#MCC">Multi-Cultural Council</orgName></p>
                         </div>
                     </div>
-                    <pb facs="images/hdp_2009-04" n="4"/>
+                    <pb facs="images/hdp_2009-04.jpg" n="4"/>
                     <div type="specialThanks">
                         <p>Special Thank you</p>
                         <list>
@@ -615,7 +614,7 @@
             </text>
             <text xml:id="HDP2010">
                 <body>
-                    <pb facs="images/hdp_2010-01" n="1"/>
+                    <pb facs="images/hdp_2010-01.jpg" n="1"/>
                     <div type="frontPage">
                         <p>Welcome to the 24th Annual Harambee Dinner <date when="2010-10-21"
                                 >Thursday, October 21, 2010</date></p>
@@ -625,7 +624,7 @@
                             richness of diversity represented among our students, faculty and staff.
                         </p>
                     </div>
-                    <pb facs="images/hdp_2010-02" n="2"/>
+                    <pb facs="images/hdp_2010-02.jpg" n="2"/>
                     <div type="menu">
                         <head>Menu</head>
                         <list>
@@ -660,7 +659,7 @@
                     <div type="celebrating">
                         <p>Celebrating 24 years of unity at Behrend!</p>
                     </div>
-                    <pb facs="images/hdp_2010-03" n="3"/>
+                    <pb facs="images/hdp_2010-03.jpg" n="3"/>
                     <div type="itinerary">
                         <div type="event">
                             <head>WELCOME</head>
@@ -726,7 +725,7 @@
             </text>
             <text xml:id="HDP2011">
                 <body>
-                    <pb facs="images/hdp_2011-01" n="1"/>
+                    <pb facs="images/hdp_2011-01.jpg" n="1"/>
                     <div type="frontPage">
                         <p><date when="2011-09-28">WEDNESDAY, SEPTEMBER 28, 2011</date></p>
 
@@ -736,7 +735,7 @@
                             25TH ANNIVERSARY of cultural enrichment and diversity that is
                             represented among our students, faculty, and staff. </p>
                     </div>
-                    <pb facs="images/hdp_2011-02" n="2"/>
+                    <pb facs="images/hdp_2011-02.jpg" n="2"/>
                     <div type="quote">
                         <head>UNITY</head>
                         <quote>Majestic moon and splendid sun, all a part of everyone.</quote>
@@ -767,7 +766,7 @@
                             <item>Marble Sheet Cake</item>
                         </list>
                     </div>
-                    <pb facs="images/hdp_2011-03" n="3"/>
+                    <pb facs="images/hdp_2011-03.jpg" n="3"/>
                     <div type="itinerary">
                         <div type="event">
                             <head>WELCOMING WORDS</head>
@@ -825,7 +824,7 @@
                                     Relations</roleName></p>
                         </div>
                     </div>
-                    <pb facs="images/hdp_2011-04" n="4"/>
+                    <pb facs="images/hdp_2011-04.jpg" n="4"/>
                     <div type="specialThanks">
                         <p>SPECIAL THANK YOU</p>
                         <list>
@@ -859,7 +858,7 @@
             </text>
             <text xml:id="HDP2013">
                 <body>
-                    <pb facs="images/hdp_2013-01" n="1"/>
+                    <pb facs="images/hdp_2013-01.jpg" n="1"/>
                     <div type="frontPage">
                         <p>Welcome to the 27th Annual Harambee Dinner <date when="2013-10-17"
                                 >Thursday, October 17, 2013</date></p>
@@ -870,7 +869,7 @@
                             richness of diversity represented among our students, faculty and
                             staff.</p>
                     </div>
-                    <pb facs="images/hdp_2013-02" n="2"/>
+                    <pb facs="images/hdp_2013-02.jpg" n="2"/>
                     <div type="quote">
                         <head>UNITY</head>
                         <quote>We are only as strong as we are united, as weak as we are
@@ -902,7 +901,7 @@
                     <div type="celebrating">
                         <p> Celebrating 27 years of unity at PSU Behrend! </p>
                     </div>
-                    <pb facs="images/hdp_2013-03" n="3"/>
+                    <pb facs="images/hdp_2013-03.jpg" n="3"/>
                     <div type="itinerary">
                         <div type="event">
                             <head>WELCOME</head>
@@ -947,7 +946,7 @@
                                         (<orgName ref="#MCC">MCC</orgName>) President</roleName></p>
                         </div>
                     </div>
-                    <pb facs="images/hdp_2013-04" n="4"/>
+                    <pb facs="images/hdp_2013-04.jpg" n="4"/>
                     <div type="specialThanks">
                         <p>SPECIAL THANK YOU <list>
                                 <item><persName>Teja Arbolada</persName></item>
@@ -980,7 +979,7 @@
             </text>
             <text xml:id="HDP2018">
                 <body>
-                    <pb facs="images/hdp_2018-01" n="1"/>
+                    <pb facs="images/hdp_2018-01.jpg" n="1"/>
                     <div type="frontPage">
                         <p><date when="2018-10-04">October 04, 2018</date> Celebrating 32 Years of
                             Unity at Behrend</p>
@@ -990,7 +989,7 @@
                             richness of cultures and diversity represented among our students,
                             faculty, and staff. </p>
                     </div>
-                    <pb facs="images/hdp_2018-02" n="2"/>
+                    <pb facs="images/hdp_2018-02.jpg" n="2"/>
                     <div type="itinerary">
                         <p>Itinerary</p>
                         <div type="event">
@@ -1044,7 +1043,7 @@
                         </div>
                         <div> </div>
                     </div>
-                    <pb facs="images/hdp_2018-03" n="3"/>
+                    <pb facs="images/hdp_2018-03.jpg" n="3"/>
                     <div type="specialThanks">
                         <p>We Thank You <list>
 
