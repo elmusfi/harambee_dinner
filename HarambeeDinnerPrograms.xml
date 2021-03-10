@@ -407,7 +407,7 @@
                 <body>
                     <pb facs="images/hdp_2008-01.jpg" n="1"/>
                     <div type="frontPage">
-                        <p>Harambee 2008</p>
+                        <p>Harambee <date when="2008">2008</date></p>
                         <p>*Celebrating 22 years of Unity at Behrend*</p>
                     </div>
                     <div type="event">
