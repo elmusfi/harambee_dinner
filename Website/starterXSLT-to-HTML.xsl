@@ -25,23 +25,39 @@
             </head>
             <body>
                 <xsl:comment>#include virtual="menu.html" </xsl:comment>
-                <p><xsl:value-of select="count(TEI/text)"/></p>
                 <div><xsl:apply-templates select="//TEI/text/group/text/body"/></div>
             </body>
         </html>
     </xsl:template>
     
     <xsl:template match="TEI/text/group/text/body">
-        <h1>Harambee Dinner - <xsl:value-of select="./div[1]//date[1]"/></h1> <!-- This is grabbing all of the first date elements for each individual p element within the first div. How do I narrow it down further? -->
+        <h1>Harambee Dinner - <xsl:value-of select="./div[1]//p[1]/date/@when ! tokenize(., '-')[1]"/></h1> <!-- This is grabbing all of the first date elements for each individual p element within the first div. How do I narrow it down further? -->
         <xsl:apply-templates/>
     </xsl:template>
     
     <xsl:template match="TEI/text//p">
-        <p><xsl:apply-templates/></p>
+        <p><xsl:choose>
+            <xsl:when test="persName and matches(., '^M[rs]+\.')">
+                <em><xsl:apply-templates/></em>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:apply-templates/>
+            </xsl:otherwise>
+        </xsl:choose></p>
     </xsl:template>
     
     <xsl:template match="persName">
-        <em><xsl:apply-templates/></em>
+        <xsl:choose>
+            <xsl:when test="parent::p and matches(parent::p, '^M[rs]+\.')">
+                <xsl:apply-templates/>
+            </xsl:when>
+            <xsl:when test="parent::item and matches(parent::item, '^M[rs]+\.')">
+                <xsl:apply-templates/>
+            </xsl:when>
+            <xsl:otherwise>
+                <em><xsl:apply-templates/></em>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     
     <xsl:template match="TEI/text//list">
@@ -49,10 +65,35 @@
     </xsl:template>
     
     <xsl:template match="TEI/text//item">
-        <li><xsl:apply-templates/></li>
+        <xsl:choose>
+            <xsl:when test="persName and matches(., '^M[rs]+\.')">
+                <li><em><xsl:apply-templates/></em></li>
+            </xsl:when>
+            <xsl:otherwise>
+                <li><xsl:apply-templates/></li>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     
     <xsl:template match="TEI/text//div[@type='menu']"><div class="menu"><xsl:apply-templates></xsl:apply-templates></div>
     </xsl:template>
     
+    <xsl:template match="TEI/text//head">
+        <h2><xsl:apply-templates/></h2>
+    </xsl:template>
+    
+    <xsl:template match="TEI/text//pb">
+        <figure><img src="{@facs}" alt="Harambee Dinner Program {preceding::date[1]/@when ! tokenize(., '-')[1]} Page {@n}."/></figure>
+        <figcaption>Page <xsl:value-of select="@n"/></figcaption>
+    </xsl:template>
+    
 </xsl:stylesheet>
+
+
+
+
+
+
+
+
+
