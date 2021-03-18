@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Harambee Dinner Programs</title>
-                <editor xml:id="ERW">Elizabeth Rose Wheeler</editor>
+                <editor xml:id="ERM">Elizabeth Rose Musfi</editor>
                 <respStmt>
                     <resp>Taught the editor TEI, advised on document</resp>
                     <name xml:id="AM">Dr. Aaron Mauro</name>
@@ -146,37 +146,37 @@
                     </div>
                     <pb facs="images/hdp_2001-02.jpg" n="2"/>
                     <div type="itinerary">
-                        <div type="event">
-                            <p>Welcome- <persName>Jacqueline Jackson</persName> &amp;
+                        <div type="welcome">
+                            <head>Welcome</head><p>- <persName>Jacqueline Jackson</persName> &amp;
                                     <persName>Khalif Rhodes</persName></p>
                         </div>
-                        <div type="event">
-                            <p>Invocation- <persName>Adrianne Abney</persName></p>
+                        <div type="invoc">
+                            <head>Invocation</head><p>- <persName>Adrianne Abney</persName></p>
                         </div>
-                        <div type="event">
-                            <p>Introduction of Cultural Performer- <persName>Edalia
+                        <div type="intro">
+                            <head>Introduction of Cultural Performer</head><p>- <persName>Edalia
                                     George</persName></p>
                         </div>
-                        <div type="event">
-                            <p>Cultural Performance- <persName>Dollissa Stevens</persName> “The
+                        <div type="performance">
+                            <head>Cultural Performance</head><p>- <persName>Dollissa Stevens</persName> “The
                                 Reason Why” Poem by <persName>Nikki Giovani</persName></p>
                         </div>
-                        <div type="event">
-                            <p>Dinner</p>
+                        <div type="meal">
+                            <head>Dinner</head>
                         </div>
-                        <div type="event">
-                            <p>Introduction of Speaker- <persName>Kim Moses</persName></p>
+                        <div type="intro">
+                            <head>Introduction of Speaker</head><p>- <persName>Kim Moses</persName></p>
                         </div>
-                        <div type="event">
-                            <p>Speaker- Elder <persName>Hayes Moses</persName> of
+                        <div type="speaker">
+                            <head>Speaker</head><p>- Elder <persName>Hayes Moses</persName> of
                                     <placeName>Detroit, Michigan</placeName></p>
                         </div>
-                        <div type="event">
-                            <p> Closing Remarks- <persName>Jacqueline Jackson</persName> &amp;
+                        <div type="closing">
+                             <head>Closing Remarks</head><p>- <persName>Jacqueline Jackson</persName> &amp;
                                     <persName>Khalif Rhodes</persName></p>
                         </div>
-                        <div type="event">
-                            <p>Benediction- <persName>Duane Ramseur</persName></p>
+                        <div type="bened">
+                            <head>Benediction</head><p>- <persName>Duane Ramseur</persName></p>
                         </div>
                     </div>
                     <pb facs="images/hdp_2001-03.jpg" n="3"/>
@@ -200,8 +200,8 @@
                         </list>
                     </div>
                     <pb facs="images/hdp_2001-04.jpg" n="4"/>
-                    <div type="specialThanks">
-                        <p>Special Thanks</p>
+                    <div type="thanks">
+                        <head>Special Thanks</head>
                         <list>
                             <item><persName>Adrianne Abney</persName>
                             </item>
@@ -296,7 +296,7 @@
                         <p><persName>Rick Doran</persName></p>
                     </div>
                     <div type="itinerary">
-                        <div type="event">
+                        <div type="ushers">
                             <head>Ushers</head>
                             <p><persName>Shirelle Evans</persName></p>
                             <p><persName>Sun Ryan Tusi</persName>
@@ -322,52 +322,50 @@
                     </div>
                     <pb facs="images/hdp_2003-03.jpg" n="3"/>
                     <div type="itinerary">
-                        <div type="event">
+                        <div type="welcome">
                             <head>Welcome</head>
                             <p> Ms. <persName>Olga Nacalaban</persName></p>
                         </div>
-                        <div type="event">
+                        <div type="invoc">
                             <head>Invocation </head>
                             <p> Irish American Society (IAS)</p>
                         </div>
-                        <div type="event">
+                        <div type="intro">
                             <head>Introduction to Speaker </head>
                             <p>Ms. <persName>Jessica Dearolf</persName></p>
                         </div>
-                        <div type="event">
+                        <div type="speaker">
                             <head>Guest Speaker</head>
                             <p>Mr. <persName>Forrest Parker</persName></p>
                             <p><roleName>President &amp; Chief Executive Officer of the Virginia
                                     Educational Council on Multi-Ethnic Concerns</roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="intro">
                             <head>Introduction to Dance Group</head>
                             <p>Mr. <persName>George Morgan</persName></p>
                         </div>
-                        <div type="event">
+                        <div type="performance">
                             <head>Dance Group </head>
                             <p><persName>Tom</persName> and <persName>Susana Evert</persName></p>
-                        </div>
-                        <div type="event">
-                            <head>Dance Theatre </head>
+                            <p>Dance Theatre </p>
                             <p> ALMA DE LA TIERRA</p>
                         </div>
-                        <div type="event">
+                        <div type="acknow">
                             <head> Acknowledgement of Alumni</head>
                             <p> Ms. <persName>Edalia George</persName></p>
                         </div>
-                        <div type="event">
+                        <div type="apprec">
                             <head> Appreciation Remarks </head>
                             <p>Mr. <persName>Nana Osei-Bansu</persName></p>
                         </div>
-                        <div type="event">
+                        <div type="closing">
                             <head>Closing Words</head>
                             <p> Ms. <persName>Tabitha Chase</persName></p>
                         </div>
                     </div>
                     <pb facs="images/hdp_2003-04.jpg" n="4"/>
-                    <div type="specialThanks">
-                        <p>Special Thank you</p>
+                    <div type="thanks">
+                        <head>Special Thank you</head>
                         <list>
                             <item><persName>Forrest Parker</persName></item>
                             <item>
@@ -410,7 +408,7 @@
                         <p>Harambee <date when="2008">2008</date></p>
                         <p>*Celebrating 22 years of Unity at Behrend*</p>
                     </div>
-                    <div type="event">
+                    <div type="ushers">
                         <head>Ushers</head>
                         <p>Mr. <persName>Earl Bass</persName></p>
                         <p>Mr. <persName>Ryan Horton</persName></p>
@@ -434,37 +432,37 @@
                     </div>
                     <pb facs="images/hdp_2008-02.jpg" n="2"/>
                     <div type="itinerary">
-                        <div type="event">
+                        <div type="welcome">
                             <head>WELCOME</head>
                             <p><persName>Adell Coleman</persName></p>
                             <p><roleName>President of the <orgName ref="#MCC">Multi-Cultural
                                         Council</orgName> (<orgName ref="#MCC"
                                     >MCC</orgName>)</roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="invoc">
                             <head>INVOCATION OF HARAMBEE</head>
                             <p><persName>Deb Workman</persName></p>
                             <p><roleName>President of <orgName ref="#WT">Women
                                     Today</orgName></roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="meal">
                             <head>DINNER</head>
                             <p>Jack Burke Presentation</p>
                             <p><persName>Elton Armady</persName> and <persName>Pascale
                                     Barthelemy</persName> (<orgName ref="#MCC">MCC</orgName>)</p>
                         </div>
-                        <div type="event">
+                        <div type="intro">
                             <head>Introduction of Speaker</head>
                             <p>Ms. <persName>Paris Norwood</persName></p>
                             <p><roleName>President of the <orgName ref="#ABC">Association of Black
                                         Collegians</orgName> (<orgName ref="#ABC"
                                     >ABC</orgName>)</roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="speaker">
                             <head> Guest Speaker</head>
                             <p><persName>Azeem</persName></p>
                         </div>
-                        <div type="event">
+                        <div type="intro">
                             <head>Introduction of Dance Group</head>
                             <p><persName>Samirah Gittens</persName>
                             </p>
@@ -472,13 +470,13 @@
                                         Engineers</orgName> (<orgName ref="NSBE"
                                     >NSBE</orgName>)</roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="performance">
                             <head>Dance Group </head>
                             <p><persName>Marcia Sanchez Loebick</persName></p>
                             <p>"La Romera" </p>
                             <p>Spanish Flamenco Dances</p>
                         </div>
-                        <div type="event">
+                        <div type="closing">
                             <head>Closing Words </head>
                             <p><persName>Crystal Lake</persName>
                             </p>
@@ -509,10 +507,12 @@
                         <p><persName>Rick Doran</persName></p>
                     </div>
                     <div type="itinerary">
+                        <div type="gifts">
                         <head>Gift Presenters</head>
                         <p>Ms. <persName>Dawn Richards</persName>
                         </p>
                         <p>Ms. <persName>Crystal Lake</persName></p>
+                        </div>
                     </div>
                     <div type="menu">
                         <head>Menu</head>
@@ -531,46 +531,45 @@
                     </div>
                     <pb facs="images/hdp_2009-03.jpg" n="3"/>
                     <div type="itinerary">
-                        <div type="event">
+                        <div type="welcome">
                             <head>Welcome</head>
                             <p>Mr. <persName>Earl Bass</persName>
                             </p>
                             <p><orgName ref="#MCC">Multi-Cultural Council</orgName></p>
                         </div>
-                        <div type="event">
+                        <div type="invoc">
                             <head>Invocation </head>
                             <p>Ms. <persName>Virginia Rodgers</persName></p>
                             <p><orgName ref="#GASE">Trigon</orgName></p>
                         </div>
-                        <div type="event">
-
+                        <div type="meal">
                             <head> Invitation to Eat </head>
                             <p>Ms. <persName>Melinda Egeruoh</persName>
                             </p>
                             <p><orgName ref="#MCC">Multi-Cultural Council</orgName></p>
                         </div>
-                        <div type="event">
+                        <div type="intro">
                             <head>Introduction to Speaker</head>
                             <p>Ms. <persName>Vetta Stepanyan</persName>
                             </p>
                             <p><orgName ref="#ISO">International Student Organization</orgName></p>
                         </div>
-                        <div type="event">
+                        <div type="speaker">
                             <head> Guest Speaker </head>
                             <p> Mr. <persName>Marvin Worthy</persName></p>
                             <p> President and CEO of Worthy and Consulting &amp; Training</p>
                         </div>
-                        <div type="event">
+                        <div type="intro">
                             <head>Introduction to Musical Performance</head>
                             <p>Mr. <persName>Mohamed Salah</persName>
                             </p>
                             <p><orgName>Muslim Student Association</orgName></p>
                         </div>
-                        <div type="event">
+                        <div type="performance">
                             <head>Musical Performance </head>
                             <p><persName>Icho Daiko</persName>, The Taiko Group</p>
                         </div>
-                        <div type="event">
+                        <div type="closing">
                             <head> Closing Words </head>
                             <p>Ms. <persName>Pascale Barthelemy</persName>
                             </p>
@@ -578,8 +577,8 @@
                         </div>
                     </div>
                     <pb facs="images/hdp_2009-04.jpg" n="4"/>
-                    <div type="specialThanks">
-                        <p>Special Thank you</p>
+                    <div type="thanks">
+                        <head>Special Thank you</head>
                         <list>
                             <item> Mr. <persName>Marvin Worthy</persName></item>
                             <item>
@@ -639,8 +638,8 @@
                             <item>Marble Sheet Cake</item>
                         </list>
                     </div>
-                    <div type="specialThanks">
-                        <p>Special Thank You To:</p>
+                    <div type="thanks">
+                        <head>Special Thank You To:</head>
                         <list>
                             <item>Mr. <persName>Andy Herrera</persName></item>
                             <item><orgName ref="#MCC">MCC</orgName> Adviser</item>
@@ -661,14 +660,14 @@
                     </div>
                     <pb facs="images/hdp_2010-03.jpg" n="3"/>
                     <div type="itinerary">
-                        <div type="event">
+                        <div type="welcome">
                             <head>WELCOME</head>
                             <p><persName>Chanel Easley</persName>
                             </p>
                             <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
                                         (<orgName ref="#MCC">MCC</orgName>) President</roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="incov">
                             <head>INVOCATION TO HARAMBEE</head>
                             <p><persName>Ray Smith</persName></p>
                             <p><roleName><orgName ref="#ABC">Association of Black
@@ -676,8 +675,10 @@
                                     Representative to <orgName ref="#MCC"
                                 >MCC</orgName></roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="meal">
                             <head>DINNER</head>
+                        </div>
+                        <div type="intro">
                             <head>INTRODUCTION TO POETRY</head>
                             <p><persName>Rose Francois</persName> and <persName>Melinda
                                     Egeruoh</persName>
@@ -686,20 +687,20 @@
                                         <orgName ref="#SGA">SGA</orgName> and <orgName ref="#MCC"
                                         >MCC</orgName> Secretary</roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="poetry">
                             <head>POETRY</head>
                             <p><persName>Samirah Gittens</persName>, </p>
                             <p><persName>Ryan Horton</persName>, </p>
                             <p><persName>Brett McLean</persName> &amp; </p>
                             <p><persName>Jeremy Omard</persName></p>
                         </div>
-                        <div type="event">
+                        <div type="intro">
                             <head>HARAMBEE PRESENTATION</head>
                             <p><persName>Chanel Easley</persName></p>
                             <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
                                         (<orgName ref="#MCC">MCC</orgName>) President</roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="intro">
                             <head>INTRODUCTION OF MUSICAL PERFORMANCE</head>
                             <p><persName>Emeka Egeruoh</persName></p>
                             <p><roleName><orgName ref="#OACS">Organization of Caribbean and African
@@ -707,13 +708,13 @@
                                     Representative To <orgName ref="#MCC"
                                 >MCC</orgName></roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="performance">
                             <head>MUSICAL PERFORMANCE</head>
                             <p>Cultural Centre of India</p>
                             <p><persName>Padma Chebrolu</persName>,</p>
                             <p><roleName>Artistic Director</roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="closing">
                             <head>CLOSING REMARKS</head>
                             <p><persName>Ryan Horton</persName></p>
                             <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
@@ -741,6 +742,7 @@
                         <quote>Majestic moon and splendid sun, all a part of everyone.</quote>
                     </div>
                     <div type="itinerary">
+                        <div type="gift">
                         <head>Gift Presenters</head>
                         <p><persName>Aubrey Puranda</persName></p>
                         <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
@@ -750,6 +752,7 @@
                         <p><persName>Louis van der Elst</persName></p>
                         <p><roleName><orgName ref="#ISO">International Student
                                     Organization</orgName> President</roleName></p>
+                    </div>
                     </div>
                     <div type="menu">
                         <p>Menu</p>
@@ -768,56 +771,56 @@
                     </div>
                     <pb facs="images/hdp_2011-03.jpg" n="3"/>
                     <div type="itinerary">
-                        <div type="event">
+                        <div type="welcome">
                             <head>WELCOMING WORDS</head>
                             <p><persName>Melinda Egeruoh</persName> &amp; Ms. <persName>Samirah
                                     Gittens</persName></p>
                             <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
                                     Co-Presidents</roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="intro">
                             <head>INTRODUCTION TO INVOCATION</head>
                             <p><persName>Veronica Lorya</persName></p>
                             <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
                                     Representative to <orgName ref="#SGA"
                                 >SGA</orgName></roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="invoc">
                             <head>INVOCATION</head>
                             <p><persName>Jing Liu</persName> - <foreign xml:lang="zh"
                                 >刘菁华</foreign></p>
                             <p><roleName><orgName ref="#ASO">Asian Student Organization</orgName>
                                     President</roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="meal">
                             <head>INVITATION TO DINNER</head>
                             <p><persName>Avrian Mckoy</persName></p>
                             <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
                                     Historian</roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="intro">
                             <head>INTRODUCTION TO SPEAKER</head>
                             <p><persName>Jeremy O'Mard</persName></p>
                             <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName> Vice
                                     President</roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="speaker">
                             <head>GUEST SPEAKER</head>
                             <p><persName>Justin Jones-Fosu</persName></p>
                             <p>Be an Active Leader for Diversity</p>
                         </div>
-                        <div type="event">
+                        <div type="intro">
                             <head>INTRODUCTION TO PERFORMANCE</head>
                             <p><persName>Sheree Wisdom</persName></p>
                             <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
                                     Secretary</roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="performance">
                             <head>PERFORMANCE</head>
                             <p><persName>Marcus Santos</persName></p>
                             <p>Brazilian Sounds</p>
                         </div>
-                        <div type="event">
+                        <div type="closing">
                             <head>CLOSING WORDS</head>
                             <p><persName>Sha’Rayne Smith</persName></p>
                             <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName> Public
@@ -825,8 +828,8 @@
                         </div>
                     </div>
                     <pb facs="images/hdp_2011-04.jpg" n="4"/>
-                    <div type="specialThanks">
-                        <p>SPECIAL THANK YOU</p>
+                    <div type="thanks">
+                        <head>SPECIAL THANK YOU</head>
                         <list>
                             <item><persName>JUSTIN JONES-FOSU</persName></item>
                             <item><persName>MARCUS SANTOS</persName></item>
@@ -876,7 +879,7 @@
                             divided.</quote>
                     </div>
                     <div type="itinerary">
-                        <div type="event">
+                        <div type="gift">
                             <head>Gifts Presenter</head>
                             <p><persName>Khardiata Mbengue</persName></p>
                             <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
@@ -884,7 +887,7 @@
                         </div>
                     </div>
                     <div type="menu">
-                        <p>Меnu</p>
+                        <head>Меnu</head>
                         <list>
                             <item>Tossed Salad</item>
                             <item>Stuffed Chicken</item>
@@ -903,7 +906,7 @@
                     </div>
                     <pb facs="images/hdp_2013-03.jpg" n="3"/>
                     <div type="itinerary">
-                        <div type="event">
+                        <div type="welcome">
                             <head>WELCOME</head>
                             <p><persName>Veronica Lorya</persName> and <persName>Sha'Rayne
                                     Smith</persName></p>
@@ -911,35 +914,37 @@
                                         (<orgName ref="#MCC">MCC</orgName>) President and
                                     Vice-President</roleName></p>
                         </div>
-                        <div type="event">
+                        <!-- ERM 03/18/2021 - There are two events here that I believe had the same folks speaking for both. What do I do with the div? 
+                        Call it invoc or intro, or make another attribute value?-->
+                        <div type="invoc">
                             <head>INVOCATION</head>
                             <head>INVITATION TO DINNER</head>
                             <p><persName>Erik Vazquez</persName></p>
                             <p><roleName><orgName>Muslim Student Association</orgName> (<orgName
                                         ref="#MSA">MSA</orgName>) Vice-President</roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="intro">
                             <head>INTRODUCTION TO SPEAKER</head>
                             <p><persName>Sheree Wisdom</persName> and <persName>Ashanae
                                     Walker</persName></p>
                             <p><roleName><orgName ref="#MCC">MCC</orgName> Secretary and <orgName
                                         ref="#MCC">MCC</orgName> Historian</roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="speaker">
                             <head>GUEST SPEAKER</head>
                             <p><persName>Teja Arboleda</persName></p>
                         </div>
-                        <div type="event">
+                        <div type="intro">
                             <head>INTRODUCTION TO PERFORMANCE</head>
                             <p><persName>Freddy Possian</persName></p>
                             <p><roleName><orgName ref="#MCC">MCC</orgName> Representative to
                                         <orgName ref="#SGA">SGA</orgName></roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="performance">
                             <head>PERFORMANCE</head>
                             <p>Bhutanese Dancers</p>
                         </div>
-                        <div type="event">
+                        <div type="closing">
                             <head>CLOSING REMARKS</head>
                             <p><persName>Veronica Lorya</persName></p>
                             <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
@@ -947,8 +952,9 @@
                         </div>
                     </div>
                     <pb facs="images/hdp_2013-04.jpg" n="4"/>
-                    <div type="specialThanks">
-                        <p>SPECIAL THANK YOU <list>
+                    <div type="thanks">
+                        <head>SPECIAL THANK YOU</head> 
+                        <list>
                                 <item><persName>Teja Arbolada</persName></item>
                                 <item>Bhutanese Community Association</item>
                                 <item><persName>Andy Herrera</persName></item>
@@ -973,7 +979,8 @@
                                 <item>Office of Student Activates</item>
                                 <item><orgName ref="#MCC">Multi-Cultural Council</orgName></item>
                                 <item>Office of Educational Equity &amp; Diversity Programs</item>
-                            </list> Celebrating diversity on campus! </p>
+                            </list> 
+                        <p>Celebrating diversity on campus!</p>
                     </div>
                 </body>
             </text>
@@ -992,13 +999,13 @@
                     <pb facs="images/hdp_2018-02.jpg" n="2"/>
                     <div type="itinerary">
                         <p>Itinerary</p>
-                        <div type="event">
+                        <div type="welcome">
                             <head>Welcome Words</head>
                             <p><persName>Andy Herrera</persName></p>
                             <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
                                         (<orgName ref="#MCC">MCC</orgName>) Adviser</roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="intro">
                             <head>Welcome to Invocation</head>
                             <p><persName>Elizabeth Malomo</persName> and <persName>Karen
                                     Hor</persName></p>
@@ -1006,37 +1013,37 @@
                                         (<orgName ref="#MCC">MCC</orgName>) President and
                                     Vice-President</roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="invoc">
                             <head>Invocation</head>
                             <p><persName>Ricardo Rodriguez</persName></p>
                             <p><roleName>PSB Model United Nations (PSBMUN) President</roleName></p>
                         </div>
                         <div>
-                            <head type="event">Invitation to Dinner</head>
+                            <head type="meal">Invitation to Dinner</head>
                             <p><persName>Priya Patel</persName></p>
                             <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
                                         (<orgName ref="#MCC">MCC</orgName>) Secretary</roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="intro">
                             <head>Introduction of Speaker</head>
                             <p><persName>Madison Jerrell</persName></p>
                             <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
                                         (<orgName ref="#MCC">MCC</orgName>) Representative to
                                         <orgName ref="#SGA">SGA</orgName></roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="speaker">
                             <head>Guest Speaker</head>
                             <p><persName>Shinjini Das</persName></p>
                             <p><roleName>The Go-Getter Girl!</roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="intro">
                             <head>Introduction of Performance</head>
                             <p><persName>Hector Rios-Jaime</persName></p>
                             <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
                                         (<orgName ref="#MCC">MCC</orgName>) Promotions
                                     Coordinator</roleName></p>
                         </div>
-                        <div type="event">
+                        <div type="performance">
                             <head>Musical Performance</head>
                             <p><persName>Mestre Efraim Silva</persName> Brazilian Capoeira &amp;
                                 Sounds</p>
@@ -1044,9 +1051,9 @@
                         <div> </div>
                     </div>
                     <pb facs="images/hdp_2018-03.jpg" n="3"/>
-                    <div type="specialThanks">
-                        <p>We Thank You <list>
-
+                    <div type="thanks">
+                        <head>We Thank You</head> 
+                        <list>
                                 <item>Our Advisor <persName>Andy A. Herrera</persName></item>
                                 <item><persName>Shinjini Das</persName></item>
                                 <item><persName>Mestre Efraim Silva</persName> &amp; Dancers</item>
@@ -1069,7 +1076,6 @@
                                 <item><orgName ref="#GASE">GASE</orgName></item>
                                 <item><orgName ref="#MCC">MCC</orgName> Organization Advisors</item>
                             </list>
-                        </p>
                     </div>
                 </body>
             </text>

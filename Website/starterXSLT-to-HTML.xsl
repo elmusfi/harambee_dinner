@@ -10,10 +10,7 @@
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat"
         omit-xml-declaration="yes"/>  
     <!-- How do you have one XSLT file export multiple HTML files? -->
-    <!-- Note to self: change div types in XML in order to add divs specific to each of them.
-        Do something with the pbs in order to have the page and the text side by side.
-        Should org names be bolded or something? 
-        h2/h3 for titles of events
+    <!-- Notes to self: 
         Eventually have SVGs for how often certain clubs appear in different events, prevalence of menu items, who gets mentioned/thanked the most, cultures that have been in events, etc.
     -->
     
@@ -52,6 +49,7 @@
                 <xsl:apply-templates/>
             </xsl:when>
             <xsl:when test="parent::item and matches(parent::item, '^M[rs]+\.')">
+                <!-- This isn't catching Ms. -->
                 <xsl:apply-templates/>
             </xsl:when>
             <xsl:otherwise>
@@ -69,17 +67,23 @@
             <xsl:when test="persName and matches(., '^M[rs]+\.')">
                 <li><em><xsl:apply-templates/></em></li>
             </xsl:when>
+            <xsl:when test="contains(., 'Beverages') or contains(., 'Dessert')">
+                <li><h4><xsl:apply-templates/></h4></li>
+            </xsl:when>
             <xsl:otherwise>
                 <li><xsl:apply-templates/></li>
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
     
-    <xsl:template match="TEI/text//div[@type='menu']"><div class="menu"><xsl:apply-templates></xsl:apply-templates></div>
+    <xsl:template match="TEI/text//div[@type]">
+        <div class="{@type}">
+            <xsl:apply-templates/>
+        </div>
     </xsl:template>
     
     <xsl:template match="TEI/text//head">
-        <h2><xsl:apply-templates/></h2>
+        <h3><xsl:apply-templates/></h3>
     </xsl:template>
     
     <xsl:template match="TEI/text//pb">

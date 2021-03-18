@@ -41,3 +41,9 @@ a:active {
 h2 {
     text-align:center;
 }
+div.menu ul {
+    list-style-type: none;
+}
+.thanks ul {
+    list-style-type: circle;
+}
