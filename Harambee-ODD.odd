@@ -2,7 +2,10 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_customization.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_customization.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" 
+ xmlns:sch="http://purl.oclc.org/dsdl/schematron"
+ xmlns:rng="http://relaxng.org/ns/structure/1.0"
+ xml:lang="en">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -37,7 +40,7 @@
     it may be simply to have absolutely everything, and <q>just ignore</q> elements not required,
     experience has shown that their presence makes the documentation harder to read and use, and
     makes a schema that is far more lax than desired.</p>
-   <schemaSpec ident="tei_all" start="TEI teiCorpus">
+   <schemaSpec ident="harambee" start="TEI">
     <moduleRef key="tei"/>
     <!-- required -->
     <!-- required -->
@@ -53,6 +56,33 @@
      except="argument back byline closer dateline div1 div2 div3 div4 div5 div6 div7 docAuthor docDate docEdition docImprint docTitle epigraph floatingText front imprimatur opener postscript salute signed titlePage titlePart trailer"
     />
     <moduleRef key="transcr"/>
+   
+   <elementSpec ident="div" module="textstructure" mode="change">
+    <attList>
+     <attDef ident="type" mode="replace" usage="req">
+      <valList type="closed">
+       <valItem ident="welcome"/>
+       <valItem ident="invoc"/>
+       <valItem ident="intro"/>
+       <valItem ident="performance"/>       
+       <valItem ident="invoc intro"/>
+       <valItem ident="meal"/>
+       <valItem ident="speaker"/>
+       <valItem ident="closing"/>
+       <valItem ident="bened"/>
+       <valItem ident="thanks"/>
+       <valItem ident="ushers"/>
+       <valItem ident="menu"/>
+       <valItem ident="acknow"/>
+       <valItem ident="apprec"/>
+       <valItem ident="gift"/>
+       <valItem ident="poetry"/>
+       <valItem ident="celebrating"/>
+       <valItem ident="itinerary"/>
+      </valList>
+     </attDef>
+    </attList>
+   </elementSpec>
    </schemaSpec>
   </body>
  </text>

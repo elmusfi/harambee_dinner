@@ -324,7 +324,7 @@
                     <div type="itinerary">
                         <div type="welcome">
                             <head>Welcome</head>
-                            <p> Ms. <persName>Olga Nacalaban</persName></p>
+                            <p>Ms. <persName>Olga Nacalaban</persName></p>
                         </div>
                         <div type="invoc">
                             <head>Invocation </head>
@@ -352,7 +352,7 @@
                         </div>
                         <div type="acknow">
                             <head> Acknowledgement of Alumni</head>
-                            <p> Ms. <persName>Edalia George</persName></p>
+                            <p>Ms. <persName>Edalia George</persName></p>
                         </div>
                         <div type="apprec">
                             <head> Appreciation Remarks </head>
@@ -360,7 +360,7 @@
                         </div>
                         <div type="closing">
                             <head>Closing Words</head>
-                            <p> Ms. <persName>Tabitha Chase</persName></p>
+                            <p>Ms. <persName>Tabitha Chase</persName></p>
                         </div>
                     </div>
                     <pb facs="images/hdp_2003-04.jpg" n="4"/>
@@ -914,9 +914,7 @@
                                         (<orgName ref="#MCC">MCC</orgName>) President and
                                     Vice-President</roleName></p>
                         </div>
-                        <!-- ERM 03/18/2021 - There are two events here that I believe had the same folks speaking for both. What do I do with the div? 
-                        Call it invoc or intro, or make another attribute value?-->
-                        <div type="invoc">
+                        <div type="invoc intro">
                             <head>INVOCATION</head>
                             <head>INVITATION TO DINNER</head>
                             <p><persName>Erik Vazquez</persName></p>

@@ -7,7 +7,7 @@ namespace teix = "http://www.tei-c.org/ns/Examples"
 namespace xi = "http://www.w3.org/2001/XInclude"
 namespace xlink = "http://www.w3.org/1999/xlink"
 
-# Schema generated from ODD source 2021-02-05T19:36:17Z. .
+# Schema generated from ODD source 2021-03-18T23:39:55Z. .
 # TEI Edition: Version 4.0.0. Last updated on
 #	13th February 2020, revision ccd19b0ba
 # TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 4.0.0/
@@ -292,7 +292,7 @@ att.datable.w3c.attribute.to =
     | xsd:dateTime
   }?
 sch:pattern [
-  id = "tei_all-att.datable.w3c-att-datable-w3c-when-constraint-rule-1"
+  id = "harambee-att.datable.w3c-att-datable-w3c-when-constraint-rule-1"
   "\x{a}" ~
   "      "
   sch:rule [
@@ -311,7 +311,7 @@ sch:pattern [
   "   "
 ]
 sch:pattern [
-  id = "tei_all-att.datable.w3c-att-datable-w3c-from-constraint-rule-2"
+  id = "harambee-att.datable.w3c-att-datable-w3c-from-constraint-rule-2"
   "\x{a}" ~
   "      "
   sch:rule [
@@ -330,7 +330,7 @@ sch:pattern [
   "   "
 ]
 sch:pattern [
-  id = "tei_all-att.datable.w3c-att-datable-w3c-to-constraint-rule-3"
+  id = "harambee-att.datable.w3c-att-datable-w3c-to-constraint-rule-3"
   "\x{a}" ~
   "      "
   sch:rule [
@@ -359,7 +359,7 @@ att.datable.attribute.calendar =
   ## indicates the system or calendar to which the date represented by the content of this element belongs.
   attribute calendar { xsd:anyURI }?
 sch:pattern [
-  id = "tei_all-att.datable-calendar-calendar-constraint-rule-4"
+  id = "harambee-att.datable-calendar-calendar-constraint-rule-4"
   "\x{a}" ~
   "      "
   sch:rule [
@@ -799,7 +799,7 @@ att.typed.attribute.subtype =
     xsd:token { pattern = "[^\p{C}\p{Z}]+" }
   }?
 sch:pattern [
-  id = "tei_all-att.typed-subtypeTyped-constraint-rule-5"
+  id = "harambee-att.typed-subtypeTyped-constraint-rule-5"
   "\x{a}" ~
   "      "
   sch:rule [
@@ -842,7 +842,7 @@ att.pointing.attribute.targetLang =
        "")
   }?
 sch:pattern [
-  id = "tei_all-att.pointing-targetLang-targetLang-constraint-rule-6"
+  id = "harambee-att.pointing-targetLang-targetLang-constraint-rule-6"
   "\x{a}" ~
   "      "
   sch:rule [
@@ -910,7 +910,7 @@ att.spanning.attribute.spanTo =
   ## indicates the end of a span initiated by the element bearing this attribute.
   attribute spanTo { xsd:anyURI }?
 sch:pattern [
-  id = "tei_all-att.spanning-spanTo-spanTo-2-constraint-rule-7"
+  id = "harambee-att.spanning-spanTo-spanTo-2-constraint-rule-7"
   "\x{a}" ~
   "      "
   sch:rule [
@@ -1535,7 +1535,7 @@ p =
   element p {
     macro.paraContent
     >> sch:pattern [
-         id = "tei_all-p-abstractModel-structure-p-constraint-report-4"
+         id = "harambee-p-abstractModel-structure-p-constraint-report-4"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -1556,7 +1556,7 @@ p =
          "         "
        ]
     >> sch:pattern [
-         id = "tei_all-p-abstractModel-structure-l-constraint-report-5"
+         id = "harambee-p-abstractModel-structure-l-constraint-report-5"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -1607,7 +1607,7 @@ desc =
     macro.limitedContent
     >> sch:pattern [
          id =
-           "tei_all-desc-deprecationInfo-only-in-deprecated-constraint-rule-8"
+           "harambee-desc-deprecationInfo-only-in-deprecated-constraint-rule-8"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -1676,7 +1676,7 @@ date =
      (model.divBottom, model.global*)*)
     >> sch:pattern [
          id =
-           "tei_all-list-gloss-list-must-have-labels-constraint-rule-9"
+           "harambee-list-gloss-list-must-have-labels-constraint-rule-9"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -2080,7 +2080,7 @@ ab =
     macro.paraContent
     >> sch:pattern [
          id =
-           "tei_all-ab-abstractModel-structure-ab-constraint-report-6"
+           "harambee-ab-abstractModel-structure-ab-constraint-report-6"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -2101,7 +2101,8 @@ ab =
          "         "
        ]
     >> sch:pattern [
-         id = "tei_all-ab-abstractModel-structure-l-constraint-report-7"
+         id =
+           "harambee-ab-abstractModel-structure-l-constraint-report-7"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -2134,7 +2135,7 @@ standOff =
     (model.standOffPart+)
     >> sch:pattern [
          id =
-           "tei_all-standOff-nested_standOff_should_be_typed-constraint-assert-7"
+           "harambee-standOff-nested_standOff_should_be_typed-constraint-assert-7"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -3012,7 +3013,7 @@ relation =
   element relation {
     (desc?)
     >> sch:pattern [
-         id = "tei_all-relation-reforkeyorname-constraint-assert-8"
+         id = "harambee-relation-reforkeyorname-constraint-assert-8"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -3030,7 +3031,7 @@ relation =
          "         "
        ]
     >> sch:pattern [
-         id = "tei_all-relation-activemutual-constraint-report-8"
+         id = "harambee-relation-activemutual-constraint-report-8"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -3048,7 +3049,7 @@ relation =
          "         "
        ]
     >> sch:pattern [
-         id = "tei_all-relation-activepassive-constraint-report-9"
+         id = "harambee-relation-activepassive-constraint-report-9"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -3268,7 +3269,7 @@ objectIdentifier =
     ((model.placeNamePart | objectName)*)
     >> sch:pattern [
          id =
-           "tei_all-objectIdentifier-objectIdentifier_minimal-constraint-report-10"
+           "harambee-objectIdentifier-objectIdentifier_minimal-constraint-report-10"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -3398,7 +3399,7 @@ group =
       (model.divBottom, model.global*)*)?)
     >> sch:pattern [
          id =
-           "tei_all-div-abstractModel-structure-l-constraint-report-11"
+           "harambee-div-abstractModel-structure-l-constraint-report-11"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -3419,7 +3420,7 @@ group =
        ]
     >> sch:pattern [
          id =
-           "tei_all-div-abstractModel-structure-p-constraint-report-12"
+           "harambee-div-abstractModel-structure-p-constraint-report-12"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -3621,7 +3622,7 @@ path =
   element path {
     empty
     >> sch:pattern [
-         id = "tei_all-path-pathmustnotbeclosed-constraint-rule-10"
+         id = "harambee-path-pathmustnotbeclosed-constraint-rule-10"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -3713,7 +3714,7 @@ addSpan =
   element addSpan {
     empty
     >> sch:pattern [
-         id = "tei_all-addSpan-spanTo-constraint-assert-9"
+         id = "harambee-addSpan-spanTo-constraint-assert-9"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -3733,7 +3734,7 @@ addSpan =
          "         "
        ]
     >> sch:pattern [
-         id = "tei_all-addSpan-spanTo_fr-constraint-assert-10"
+         id = "harambee-addSpan-spanTo_fr-constraint-assert-10"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -3774,7 +3775,7 @@ damageSpan =
   element damageSpan {
     empty
     >> sch:pattern [
-         id = "tei_all-damageSpan-spanTo-constraint-assert-11"
+         id = "harambee-damageSpan-spanTo-constraint-assert-11"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -3795,7 +3796,7 @@ damageSpan =
          "         "
        ]
     >> sch:pattern [
-         id = "tei_all-damageSpan-spanTo_fr-constraint-assert-12"
+         id = "harambee-damageSpan-spanTo_fr-constraint-assert-12"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -3824,7 +3825,7 @@ delSpan =
   element delSpan {
     empty
     >> sch:pattern [
-         id = "tei_all-delSpan-spanTo-constraint-assert-13"
+         id = "harambee-delSpan-spanTo-constraint-assert-13"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -3844,7 +3845,7 @@ delSpan =
          "         "
        ]
     >> sch:pattern [
-         id = "tei_all-delSpan-spanTo_fr-constraint-assert-14"
+         id = "harambee-delSpan-spanTo_fr-constraint-assert-14"
          "\x{a}" ~
          "            "
          sch:rule [
@@ -3991,7 +3992,7 @@ subst =
   element subst {
     ((model.milestoneLike)+)
     >> sch:pattern [
-         id = "tei_all-subst-substContents1-constraint-assert-15"
+         id = "harambee-subst-substContents1-constraint-assert-15"
          "\x{a}" ~
          "            "
          sch:rule [

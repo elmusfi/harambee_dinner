@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   elementFormDefault="qualified" targetNamespace="http://www.tei-c.org/ns/1.0">
-   <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="xml.tmp"/>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:tei="http://www.tei-c.org/ns/1.0"
+           elementFormDefault="qualified"
+           targetNamespace="http://www.tei-c.org/ns/1.0">
+   <xs:import namespace="http://www.w3.org/XML/1998/namespace"
+              schemaLocation="xml.tmp"/>
    <!--
-    Schema generated from ODD source 2021-02-05T19:36:10Z. .
+    Schema generated from ODD source 2021-03-18T23:39:46Z. .
     TEI Edition: Version 4.0.0. Last updated on
     	13th February 2020, revision ccd19b0ba
     TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 4.0.0/
@@ -374,9 +377,7 @@ Sample values include: 1] rubbing; 2] mildew; 3] smoke</xs:documentation>
             <xs:documentation>supplies the value of the date or time in a standard form, e.g. yyyy-mm-dd.</xs:documentation>
          </xs:annotation>
          <xs:simpleType>
-            <xs:union
-               memberTypes="xs:date xs:gYear xs:gMonth xs:gDay xs:gYearMonth xs:gMonthDay xs:time xs:dateTime"
-            />
+            <xs:union memberTypes="xs:date xs:gYear xs:gMonth xs:gDay xs:gYearMonth xs:gMonthDay xs:time xs:dateTime"/>
          </xs:simpleType>
       </xs:attribute>
    </xs:attributeGroup>
@@ -386,9 +387,7 @@ Sample values include: 1] rubbing; 2] mildew; 3] smoke</xs:documentation>
             <xs:documentation>specifies the earliest possible date for the event in standard form, e.g. yyyy-mm-dd.</xs:documentation>
          </xs:annotation>
          <xs:simpleType>
-            <xs:union
-               memberTypes="xs:date xs:gYear xs:gMonth xs:gDay xs:gYearMonth xs:gMonthDay xs:time xs:dateTime"
-            />
+            <xs:union memberTypes="xs:date xs:gYear xs:gMonth xs:gDay xs:gYearMonth xs:gMonthDay xs:time xs:dateTime"/>
          </xs:simpleType>
       </xs:attribute>
    </xs:attributeGroup>
@@ -398,9 +397,7 @@ Sample values include: 1] rubbing; 2] mildew; 3] smoke</xs:documentation>
             <xs:documentation>specifies the latest possible date for the event in standard form, e.g. yyyy-mm-dd.</xs:documentation>
          </xs:annotation>
          <xs:simpleType>
-            <xs:union
-               memberTypes="xs:date xs:gYear xs:gMonth xs:gDay xs:gYearMonth xs:gMonthDay xs:time xs:dateTime"
-            />
+            <xs:union memberTypes="xs:date xs:gYear xs:gMonth xs:gDay xs:gYearMonth xs:gMonthDay xs:time xs:dateTime"/>
          </xs:simpleType>
       </xs:attribute>
    </xs:attributeGroup>
@@ -410,9 +407,7 @@ Sample values include: 1] rubbing; 2] mildew; 3] smoke</xs:documentation>
             <xs:documentation>indicates the starting point of the period in standard form, e.g. yyyy-mm-dd.</xs:documentation>
          </xs:annotation>
          <xs:simpleType>
-            <xs:union
-               memberTypes="xs:date xs:gYear xs:gMonth xs:gDay xs:gYearMonth xs:gMonthDay xs:time xs:dateTime"
-            />
+            <xs:union memberTypes="xs:date xs:gYear xs:gMonth xs:gDay xs:gYearMonth xs:gMonthDay xs:time xs:dateTime"/>
          </xs:simpleType>
       </xs:attribute>
    </xs:attributeGroup>
@@ -422,9 +417,7 @@ Sample values include: 1] rubbing; 2] mildew; 3] smoke</xs:documentation>
             <xs:documentation>indicates the ending point of the period in standard form, e.g. yyyy-mm-dd.</xs:documentation>
          </xs:annotation>
          <xs:simpleType>
-            <xs:union
-               memberTypes="xs:date xs:gYear xs:gMonth xs:gDay xs:gYearMonth xs:gMonthDay xs:time xs:dateTime"
-            />
+            <xs:union memberTypes="xs:date xs:gYear xs:gMonth xs:gDay xs:gYearMonth xs:gMonthDay xs:time xs:dateTime"/>
          </xs:simpleType>
       </xs:attribute>
    </xs:attributeGroup>
@@ -1402,9 +1395,7 @@ Sample values include: 1] duplicate; 2] duplicate-partial; 3] excessStart; 4] ex
             <xs:documentation>specifies the date on which the source text was extracted and sent to the translator</xs:documentation>
          </xs:annotation>
          <xs:simpleType>
-            <xs:union
-               memberTypes="xs:date xs:gYear xs:gMonth xs:gDay xs:gYearMonth xs:gMonthDay xs:time xs:dateTime"
-            />
+            <xs:union memberTypes="xs:date xs:gYear xs:gMonth xs:gDay xs:gYearMonth xs:gMonthDay xs:time xs:dateTime"/>
          </xs:simpleType>
       </xs:attribute>
    </xs:attributeGroup>
@@ -2262,8 +2253,9 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
    </xs:group>
    <xs:group name="model.placeStateLike_sequenceOptionalRepeatable">
       <xs:sequence>
-         <xs:group minOccurs="0" maxOccurs="unbounded"
-            ref="tei:model.placeNamePart_sequenceOptionalRepeatable"/>
+         <xs:group minOccurs="0"
+                   maxOccurs="unbounded"
+                   ref="tei:model.placeNamePart_sequenceOptionalRepeatable"/>
          <xs:element minOccurs="0" maxOccurs="unbounded" ref="tei:climate"/>
          <xs:element minOccurs="0" maxOccurs="unbounded" ref="tei:location"/>
          <xs:element minOccurs="0" maxOccurs="unbounded" ref="tei:population"/>
@@ -2353,8 +2345,9 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
    </xs:group>
    <xs:group name="model.qLike_sequenceOptionalRepeatable">
       <xs:sequence>
-         <xs:group minOccurs="0" maxOccurs="unbounded"
-            ref="tei:model.quoteLike_sequenceOptionalRepeatable"/>
+         <xs:group minOccurs="0"
+                   maxOccurs="unbounded"
+                   ref="tei:model.quoteLike_sequenceOptionalRepeatable"/>
       </xs:sequence>
    </xs:group>
    <xs:group name="model.qLike_sequenceRepeatable">
@@ -2457,14 +2450,18 @@ Suggested values include: 1] volume; 2] issue; 3] page; 4] line; 5] chapter; 6] 
    </xs:group>
    <xs:group name="model.nameLike_sequenceOptionalRepeatable">
       <xs:sequence>
-         <xs:group minOccurs="0" maxOccurs="unbounded"
-            ref="tei:model.nameLike.agent_sequenceOptionalRepeatable"/>
-         <xs:group minOccurs="0" maxOccurs="unbounded"
-            ref="tei:model.offsetLike_sequenceOptionalRepeatable"/>
-         <xs:group minOccurs="0" maxOccurs="unbounded"
-            ref="tei:model.placeStateLike_sequenceOptionalRepeatable"/>
-         <xs:group minOccurs="0" maxOccurs="unbounded"
-            ref="tei:model.persNamePart_sequenceOptionalRepeatable"/>
+         <xs:group minOccurs="0"
+                   maxOccurs="unbounded"
+                   ref="tei:model.nameLike.agent_sequenceOptionalRepeatable"/>
+         <xs:group minOccurs="0"
+                   maxOccurs="unbounded"
+                   ref="tei:model.offsetLike_sequenceOptionalRepeatable"/>
+         <xs:group minOccurs="0"
+                   maxOccurs="unbounded"
+                   ref="tei:model.placeStateLike_sequenceOptionalRepeatable"/>
+         <xs:group minOccurs="0"
+                   maxOccurs="unbounded"
+                   ref="tei:model.persNamePart_sequenceOptionalRepeatable"/>
          <xs:element minOccurs="0" maxOccurs="unbounded" ref="tei:objectName"/>
       </xs:sequence>
    </xs:group>
@@ -3573,8 +3570,7 @@ Sample values include: 1] main; 2] sub (subordinate); 3] alt (alternate); 4] sho
             <xs:documentation>supplies the value of a date or time in a standard form.</xs:documentation>
          </xs:annotation>
          <xs:simpleType>
-            <xs:union
-               memberTypes="xs:date xs:gYear xs:gMonth xs:gDay xs:gYearMonth xs:gMonthDay xs:time xs:dateTime">
+            <xs:union memberTypes="xs:date xs:gYear xs:gMonth xs:gDay xs:gYearMonth xs:gMonthDay xs:time xs:dateTime">
                <xs:simpleType>
                   <xs:restriction base="xs:token">
                      <xs:pattern value="[0-9.,DHMPRSTWYZ/:+\-]+"/>
@@ -3590,8 +3586,7 @@ Sample values include: 1] main; 2] sub (subordinate); 3] alt (alternate); 4] sho
             <xs:documentation>specifies the earliest possible date for the event in standard form, e.g. yyyy-mm-dd.</xs:documentation>
          </xs:annotation>
          <xs:simpleType>
-            <xs:union
-               memberTypes="xs:date xs:gYear xs:gMonth xs:gDay xs:gYearMonth xs:gMonthDay xs:time xs:dateTime">
+            <xs:union memberTypes="xs:date xs:gYear xs:gMonth xs:gDay xs:gYearMonth xs:gMonthDay xs:time xs:dateTime">
                <xs:simpleType>
                   <xs:restriction base="xs:token">
                      <xs:pattern value="[0-9.,DHMPRSTWYZ/:+\-]+"/>
@@ -3607,8 +3602,7 @@ Sample values include: 1] main; 2] sub (subordinate); 3] alt (alternate); 4] sho
             <xs:documentation>specifies the latest possible date for the event in standard form, e.g. yyyy-mm-dd.</xs:documentation>
          </xs:annotation>
          <xs:simpleType>
-            <xs:union
-               memberTypes="xs:date xs:gYear xs:gMonth xs:gDay xs:gYearMonth xs:gMonthDay xs:time xs:dateTime">
+            <xs:union memberTypes="xs:date xs:gYear xs:gMonth xs:gDay xs:gYearMonth xs:gMonthDay xs:time xs:dateTime">
                <xs:simpleType>
                   <xs:restriction base="xs:token">
                      <xs:pattern value="[0-9.,DHMPRSTWYZ/:+\-]+"/>
@@ -3624,8 +3618,7 @@ Sample values include: 1] main; 2] sub (subordinate); 3] alt (alternate); 4] sho
             <xs:documentation>indicates the starting point of the period in standard form.</xs:documentation>
          </xs:annotation>
          <xs:simpleType>
-            <xs:union
-               memberTypes="xs:date xs:gYear xs:gMonth xs:gDay xs:gYearMonth xs:gMonthDay xs:time xs:dateTime">
+            <xs:union memberTypes="xs:date xs:gYear xs:gMonth xs:gDay xs:gYearMonth xs:gMonthDay xs:time xs:dateTime">
                <xs:simpleType>
                   <xs:restriction base="xs:token">
                      <xs:pattern value="[0-9.,DHMPRSTWYZ/:+\-]+"/>
@@ -3641,8 +3634,7 @@ Sample values include: 1] main; 2] sub (subordinate); 3] alt (alternate); 4] sho
             <xs:documentation>indicates the ending point of the period in standard form.</xs:documentation>
          </xs:annotation>
          <xs:simpleType>
-            <xs:union
-               memberTypes="xs:date xs:gYear xs:gMonth xs:gDay xs:gYearMonth xs:gMonthDay xs:time xs:dateTime">
+            <xs:union memberTypes="xs:date xs:gYear xs:gMonth xs:gDay xs:gYearMonth xs:gMonthDay xs:time xs:dateTime">
                <xs:simpleType>
                   <xs:restriction base="xs:token">
                      <xs:pattern value="[0-9.,DHMPRSTWYZ/:+\-]+"/>
@@ -5596,7 +5588,9 @@ Sample values include: 1] glued; 2] pinned; 3] sewn</xs:documentation>
          <xs:documentation>(abbreviation marker) contains a sequence of letters or signs present in an abbreviation which are omitted or replaced in the expanded form of the abbreviation. [11.3.1.2. Abbreviation and Expansion]</xs:documentation>
       </xs:annotation>
       <xs:complexType mixed="true">
-         <xs:group minOccurs="0" maxOccurs="unbounded" ref="tei:model.pPart.transcriptional"/>
+         <xs:group minOccurs="0"
+                   maxOccurs="unbounded"
+                   ref="tei:model.pPart.transcriptional"/>
          <xs:attributeGroup ref="tei:att.global.attributes"/>
          <xs:attributeGroup ref="tei:att.typed.attributes"/>
          <xs:attributeGroup ref="tei:att.editLike.attributes"/>
