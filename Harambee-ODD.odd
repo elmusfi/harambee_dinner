@@ -79,6 +79,8 @@
        <valItem ident="poetry"/>
        <valItem ident="celebrating"/>
        <valItem ident="itinerary"/>
+       <valItem ident="frontPage"/>
+       <valItem ident="quote"/>
       </valList>
      </attDef>
     </attList>

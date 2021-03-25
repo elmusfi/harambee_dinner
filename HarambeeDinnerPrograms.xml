@@ -507,7 +507,7 @@
                         <p><persName>Rick Doran</persName></p>
                     </div>
                     <div type="itinerary">
-                        <div type="gifts">
+                        <div type="gift">
                         <head>Gift Presenters</head>
                         <p>Ms. <persName>Dawn Richards</persName>
                         </p>
@@ -667,7 +667,7 @@
                             <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
                                         (<orgName ref="#MCC">MCC</orgName>) President</roleName></p>
                         </div>
-                        <div type="incov">
+                        <div type="invoc">
                             <head>INVOCATION TO HARAMBEE</head>
                             <p><persName>Ray Smith</persName></p>
                             <p><roleName><orgName ref="#ABC">Association of Black
@@ -1016,8 +1016,8 @@
                             <p><persName>Ricardo Rodriguez</persName></p>
                             <p><roleName>PSB Model United Nations (PSBMUN) President</roleName></p>
                         </div>
-                        <div>
-                            <head type="meal">Invitation to Dinner</head>
+                        <div type="meal">
+                            <head>Invitation to Dinner</head>
                             <p><persName>Priya Patel</persName></p>
                             <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
                                         (<orgName ref="#MCC">MCC</orgName>) Secretary</roleName></p>
@@ -1046,7 +1046,6 @@
                             <p><persName>Mestre Efraim Silva</persName> Brazilian Capoeira &amp;
                                 Sounds</p>
                         </div>
-                        <div> </div>
                     </div>
                     <pb facs="images/hdp_2018-03.jpg" n="3"/>
                     <div type="thanks">
