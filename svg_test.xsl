@@ -32,7 +32,7 @@
                         <text x="{$xlabel}" y="{$ypos - (7 * position())}" stroke="#00000" style="text-anchor: middle" font-size="7"><xsl:value-of select="."/></text>
                     </xsl:for-each>
                     
-                    <text x="{$xlabel}" y="20" stroke="#000000" style="text-anchor: middle" font-size="10"><xsl:value-of select="($text//persName[lower-case(.)=current()])[1]"/></text>
+                    <text x="{$xlabel}" y="20" stroke="#000000" style="text-anchor: middle" font-size="10" font-family="sans-serif"><xsl:value-of select="($text//persName[lower-case(.)=current()])[1]"/></text>
                         <line x1="{$xlabel}" y1="0" x2="{$xlabel}" y2="{$ypos}" stroke-width="15" stroke="#F7D723"/>
             </g></xsl:if> 
         </xsl:for-each>
@@ -45,9 +45,9 @@
                     <!-- Y axis -->
                     <line x1="0" y1="0" x2="0" y2="{$ystretch * 10}" stroke="#505152"/>
                     <!-- general labels -->
-                    <text x="{10 * $xint div 2}" y="{10 * $ystretch - 10}" stroke="#AD1800" style="text-anchor: middle" font-size="28">10 Most Common Names in Harambee Dinner Programs</text>           
-                    <text x="{10 * $xint div 2}" y="70" stroke="#000000" style="text-anchor: middle" font-size="20">Name</text>
-                    <text x="-200" y="240" stroke="#000000" style="text-anchor: middle" transform="rotate(90,100,100)" font-size="20">Number of Mentions</text>
+                    <text x="{10 * $xint div 2}" y="{10 * $ystretch - 10}" font-family="sans-serif" fill="#AD1800" style="text-anchor: middle" font-size="28">10 Most Common Names in Harambee Dinner Programs</text>           
+            <text x="{10 * $xint div 2}" y="70" stroke="#000000" style="text-anchor: middle" font-family="sans-serif" font-size="20">Name</text>
+            <text x="-200" y="230" stroke="#000000" style="text-anchor: start" transform="rotate(90,100,100)" font-family="sans-serif" font-size="20">Number of Mentions</text>
                 </g>
             </svg>
     </xsl:template>

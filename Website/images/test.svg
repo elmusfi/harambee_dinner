@@ -48,8 +48,7 @@
                y="20"
                stroke="#000000"
                style="text-anchor: middle"
-               font-size="10"
-               font-family="sans-serif">Andy Herrera</text>
+               font-size="10">Andy Herrera</text>
          <line x1="37.5"
                y1="0"
                x2="37.5"
@@ -67,8 +66,7 @@
                y="20"
                stroke="#000000"
                style="text-anchor: middle"
-               font-size="10"
-               font-family="sans-serif">Jacqueline Jackson</text>
+               font-size="10">Jacqueline Jackson</text>
          <line x1="112.5"
                y1="0"
                x2="112.5"
@@ -106,8 +104,7 @@
                y="20"
                stroke="#000000"
                style="text-anchor: middle"
-               font-size="10"
-               font-family="sans-serif">Ryan Horton</text>
+               font-size="10">Ryan Horton</text>
          <line x1="187.5"
                y1="0"
                x2="187.5"
@@ -115,7 +112,7 @@
                stroke-width="15"
                stroke="#F7D723"/>
       </g>
-      <g id="samirah_gittens">
+      <g id="nicole_fedders">
          <text x="262.5"
                y="-82"
                stroke="#00000"
@@ -147,11 +144,15 @@
                style="text-anchor: middle"
                font-size="7">2011</text>
          <text x="262.5"
+               y="-124"
+               stroke="#00000"
+               style="text-anchor: middle"
+               font-size="7">2013</text>
+         <text x="262.5"
                y="20"
                stroke="#000000"
                style="text-anchor: middle"
-               font-size="10"
-               font-family="sans-serif">Samirah Gittens</text>
+               font-size="10">Nicole Fedders</text>
          <line x1="262.5"
                y1="0"
                x2="262.5"
@@ -159,7 +160,7 @@
                stroke-width="15"
                stroke="#F7D723"/>
       </g>
-      <g id="nicole_fedders">
+      <g id="veronica_lorya">
          <text x="337.5"
                y="-82"
                stroke="#00000"
@@ -199,8 +200,7 @@
                y="20"
                stroke="#000000"
                style="text-anchor: middle"
-               font-size="10"
-               font-family="sans-serif">Nicole Fedders</text>
+               font-size="10">Veronica Lorya</text>
          <line x1="337.5"
                y1="0"
                x2="337.5"
@@ -208,56 +208,25 @@
                stroke-width="15"
                stroke="#F7D723"/>
       </g>
-      <g id="veronica_lorya">
+      <g id="khalif_rhodes">
          <text x="412.5"
-               y="-82"
+               y="-57"
                stroke="#00000"
                style="text-anchor: middle"
                font-size="7">2001</text>
          <text x="412.5"
-               y="-89"
-               stroke="#00000"
-               style="text-anchor: middle"
-               font-size="7">2003</text>
-         <text x="412.5"
-               y="-96"
-               stroke="#00000"
-               style="text-anchor: middle"
-               font-size="7">2008</text>
-         <text x="412.5"
-               y="-103"
-               stroke="#00000"
-               style="text-anchor: middle"
-               font-size="7">2009</text>
-         <text x="412.5"
-               y="-110"
-               stroke="#00000"
-               style="text-anchor: middle"
-               font-size="7">2010</text>
-         <text x="412.5"
-               y="-117"
-               stroke="#00000"
-               style="text-anchor: middle"
-               font-size="7">2011</text>
-         <text x="412.5"
-               y="-124"
-               stroke="#00000"
-               style="text-anchor: middle"
-               font-size="7">2013</text>
-         <text x="412.5"
                y="20"
                stroke="#000000"
                style="text-anchor: middle"
-               font-size="10"
-               font-family="sans-serif">Veronica Lorya</text>
+               font-size="10">Khalif Rhodes</text>
          <line x1="412.5"
                y1="0"
                x2="412.5"
-               y2="-75"
+               y2="-50"
                stroke-width="15"
                stroke="#F7D723"/>
       </g>
-      <g id="khalif_rhodes">
+      <g id="adrianne_abney">
          <text x="487.5"
                y="-57"
                stroke="#00000"
@@ -267,8 +236,7 @@
                y="20"
                stroke="#000000"
                style="text-anchor: middle"
-               font-size="10"
-               font-family="sans-serif">Khalif Rhodes</text>
+               font-size="10">Adrianne Abney</text>
          <line x1="487.5"
                y1="0"
                x2="487.5"
@@ -276,7 +244,7 @@
                stroke-width="15"
                stroke="#F7D723"/>
       </g>
-      <g id="adrianne_abney">
+      <g id="dollissa_stevens">
          <text x="562.5"
                y="-57"
                stroke="#00000"
@@ -286,8 +254,7 @@
                y="20"
                stroke="#000000"
                style="text-anchor: middle"
-               font-size="10"
-               font-family="sans-serif">Adrianne Abney</text>
+               font-size="10">Dollissa Stevens</text>
          <line x1="562.5"
                y1="0"
                x2="562.5"
@@ -295,23 +262,17 @@
                stroke-width="15"
                stroke="#F7D723"/>
       </g>
-      <g id="edalia_george">
+      <g id="hayes_moses">
          <text x="637.5"
                y="-57"
                stroke="#00000"
                style="text-anchor: middle"
                font-size="7">2001</text>
          <text x="637.5"
-               y="-64"
-               stroke="#00000"
-               style="text-anchor: middle"
-               font-size="7">2003</text>
-         <text x="637.5"
                y="20"
                stroke="#000000"
                style="text-anchor: middle"
-               font-size="10"
-               font-family="sans-serif">Edalia George</text>
+               font-size="10">Hayes Moses</text>
          <line x1="637.5"
                y1="0"
                x2="637.5"
@@ -319,7 +280,7 @@
                stroke-width="15"
                stroke="#F7D723"/>
       </g>
-      <g id="dollissa_stevens">
+      <g id="duane_ramseur">
          <text x="712.5"
                y="-57"
                stroke="#00000"
@@ -329,8 +290,7 @@
                y="20"
                stroke="#000000"
                style="text-anchor: middle"
-               font-size="10"
-               font-family="sans-serif">Dollissa Stevens</text>
+               font-size="10">Duane Ramseur</text>
          <line x1="712.5"
                y1="0"
                x2="712.5"
@@ -342,22 +302,19 @@
       <line x1="0" y1="0" x2="0" y2="-250" stroke="#505152"/>
       <text x="375"
             y="-260"
-            font-family="sans-serif"
-            fill="#AD1800"
+            stroke="#AD1800"
             style="text-anchor: middle"
             font-size="28">10 Most Common Names in Harambee Dinner Programs</text>
       <text x="375"
             y="70"
             stroke="#000000"
             style="text-anchor: middle"
-            font-family="sans-serif"
             font-size="20">Name</text>
       <text x="-200"
-            y="230"
+            y="240"
             stroke="#000000"
-            style="text-anchor: start"
+            style="text-anchor: middle"
             transform="rotate(90,100,100)"
-            font-family="sans-serif"
             font-size="20">Number of Mentions</text>
    </g>
 </svg>

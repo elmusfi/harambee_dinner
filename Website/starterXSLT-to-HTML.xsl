@@ -35,7 +35,7 @@
     
     <xsl:template match="body">
         <h1>Harambee Dinner - <xsl:value-of select="./div[1]//p[1]/date/@when ! tokenize(., '-')[1]"/></h1>
-        <xsl:apply-templates/>
+        <table class="progpage"><xsl:apply-templates/></table>
     </xsl:template>
     
     <xsl:template match="p">
@@ -83,9 +83,29 @@
     </xsl:template>
     
     <xsl:template match="div[@type]">
-        <div class="{@type}">
-            <xsl:apply-templates/>
-        </div>
+        <xsl:choose>
+            <xsl:when test="@type = 'page'">
+                <tr>
+                    <div class="{@type}">
+                        <xsl:apply-templates/>
+                    </div>
+                </tr>
+            </xsl:when>
+            <xsl:when test="@type='content'">
+                <td>
+                    <div class="{@type}">
+                        <xsl:apply-templates/>
+                    </div>
+                </td>
+            </xsl:when>
+            <xsl:otherwise>
+                <div class="{@type}">
+                    <xsl:apply-templates/>
+                </div>
+            </xsl:otherwise>
+        </xsl:choose>
+        
+        
     </xsl:template>
     
     <xsl:template match="head">
@@ -93,8 +113,8 @@
     </xsl:template>
     
     <xsl:template match="pb">
-        <figure><img src="{@facs}" alt="Harambee Dinner Program {preceding::date[1]/@when ! tokenize(., '-')[1]} Page {@n}."/>
-        <figcaption>Page <xsl:value-of select="@n"/></figcaption></figure>
+        <td><figure class="page"><img src="{@facs}" alt="Harambee Dinner Program {preceding::date[1]/@when ! tokenize(., '-')[1]} Page {@n}."/>
+        <figcaption>Page <xsl:value-of select="@n"/></figcaption></figure></td>
     </xsl:template>
     
 </xsl:stylesheet>

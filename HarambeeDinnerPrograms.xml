@@ -12,23 +12,25 @@
                     <name xml:id="AM">Dr. Aaron Mauro</name>
                 </respStmt>
                 <respStmt>
-                    <resp>Advised on changes to TEI structure, helped bring project to internet space</resp>
+                    <resp>Advised on changes to TEI structure, helped bring project to internet
+                        space</resp>
                     <name xml:id="EBB">Dr. Elisa Beshero-Bondar</name>
                 </respStmt>
             </titleStmt>
-            
+
             <publicationStmt>
                 <p>Produced as final project in DIGIT 110 class at Penn State Behrend.</p>
                 <p>Revised spring 2021 for internet release.</p>
             </publicationStmt>
-          
+
             <notesStmt>
-                <note>Document originally created for DIGIT 110 class, updated for online publishing in spring 2021.</note>
+                <note>Document originally created for DIGIT 110 class, updated for online publishing
+                    in spring 2021.</note>
             </notesStmt>
             <sourceDesc>
-               
-                <p>This group of texts includes dinner programs for a event called Harambee,
-                    hosted every fall semester at Penn State Behrend by the MCC. These programs
+
+                <p>This group of texts includes dinner programs for a event called Harambee, hosted
+                    every fall semester at Penn State Behrend by the MCC. These programs
                     traditionally are left on the dinner tables at the event for patrons to look
                     through, but are ultimately to throw away. The event has been going on for 32
                     years in 2018, but only 8 programs have been salvaged.</p>
@@ -40,1039 +42,1176 @@
                 <listOrg>
                     <org>
                         <orgName xml:id="MCC">MCC</orgName>
-                        <desc>MCC is the initialism for the Multi-Cultural Council, a student-led governing body of
-                        Penn State Behrend that is responsible for hosting the Harambee Dinners.</desc>
+                        <desc>MCC is the initialism for the Multi-Cultural Council, a student-led
+                            governing body of Penn State Behrend that is responsible for hosting the
+                            Harambee Dinners.</desc>
                     </org>
                     <org>
                         <orgName xml:id="SGA">SGA</orgName>
-                        <desc>SGA is the initialism for the Student Government Association, a student-led governing
-                        body of Penn State Behrend.</desc>
+                        <desc>SGA is the initialism for the Student Government Association, a
+                            student-led governing body of Penn State Behrend.</desc>
                     </org>
                     <org>
                         <orgName xml:id="NSBE">NSBE</orgName>
-                        <desc>NSBE is the acronym for National Society of Black Engineers, a club of Penn State Behrend
-                        and an organization under the MCC.</desc>
+                        <desc>NSBE is the acronym for National Society of Black Engineers, a club of
+                            Penn State Behrend and an organization under the MCC.</desc>
                     </org>
                     <org>
                         <orgName xml:id="ABC">ABC</orgName>
-                        <desc>ABC is the initialism for Association of Black Collegians, a club of Penn State Behrend and
-                        an organization under the MCC.</desc>
+                        <desc>ABC is the initialism for Association of Black Collegians, a club of
+                            Penn State Behrend and an organization under the MCC.</desc>
                     </org>
                     <org>
                         <orgName xml:id="HRPC">HRPC</orgName>
-                        <desc>HRPC is the initialism for Human Relations Programming Council, a club of Penn
-                        State Behrend and an organization under the MCC.</desc>
+                        <desc>HRPC is the initialism for Human Relations Programming Council, a club
+                            of Penn State Behrend and an organization under the MCC.</desc>
                     </org>
                     <org>
                         <orgName xml:id="ISO">ISO</orgName>
-                        <desc>ISO is the initialism for International Student Organization, a club of Penn State Behrend
-                        and an organization under the MCC.</desc>
+                        <desc>ISO is the initialism for International Student Organization, a club
+                            of Penn State Behrend and an organization under the MCC.</desc>
                     </org>
                     <org>
                         <orgName xml:id="OACS">OACS</orgName>
-                        <desc>OACS is the initialism for Organization of Caribbean and African Students, a club
-                        of Penn State Behrend and an organization under the MCC.</desc>
+                        <desc>OACS is the initialism for Organization of Caribbean and African
+                            Students, a club of Penn State Behrend and an organization under the
+                            MCC.</desc>
                     </org>
                     <org>
                         <orgName xml:id="ASO">ASO</orgName>
-                        <desc>ASO is the initialism for Asian Student Organization, a club of Penn State Behrend and an
-                        organization under the MCC.</desc>
+                        <desc>ASO is the initialism for Asian Student Organization, a club of Penn
+                            State Behrend and an organization under the MCC.</desc>
                     </org>
                     <org>
                         <orgName xml:id="MSA">MSA</orgName>
-                        <desc>MSA is the initialism for Muslim Student Organization, a club of Penn State Behrend and an
-                        organization under the MCC.</desc>
+                        <desc>MSA is the initialism for Muslim Student Organization, a club of Penn
+                            State Behrend and an organization under the MCC.</desc>
                     </org>
                     <org>
                         <orgName xml:id="OLAS">OLAS</orgName>
-                        <desc>OLAS is the acronym for Organization of Latin American Students, a club of Penn State
-                        Behrend and an organization under the MCC.</desc>
+                        <desc>OLAS is the acronym for Organization of Latin American Students, a
+                            club of Penn State Behrend and an organization under the MCC.</desc>
                     </org>
                     <org>
                         <orgName xml:id="GASE">Trigon</orgName>
-                        <desc>Trigon is the former name of a club of Penn
-                        State Behrend and an organization under the MCC.
-                        Currently the club is called Gender and Sexuality
-                            Equality with the acronym of GASE.</desc>
+                        <desc>Trigon is the former name of a club of Penn State Behrend and an
+                            organization under the MCC. Currently the club is called Gender and
+                            Sexuality Equality with the acronym of GASE.</desc>
                     </org>
                     <org>
                         <orgName xml:id="SASO">SASO</orgName>
-                        <desc>SASO is the acronym for South Asian Student Organization, a club of Penn State Behrend
-                        and an organization under the MCC.</desc>
+                        <desc>SASO is the acronym for South Asian Student Organization, a club of
+                            Penn State Behrend and an organization under the MCC.</desc>
                     </org>
                     <org>
                         <orgName xml:id="WT">WT</orgName>
-                        <desc>WT is the initialism for Women Today, a club of Penn State Behrend and an organization
-                        under the MCC.</desc>
+                        <desc>WT is the initialism for Women Today, a club of Penn State Behrend and
+                            an organization under the MCC.</desc>
                     </org>
                     <org>
                         <orgName xml:id="CCC">CCC</orgName>
-                        <desc>CCC is the initialism for Cultural Cooking Club, a club of Penn State Behrend and an
-                        organization under the MCC.</desc>
+                        <desc>CCC is the initialism for Cultural Cooking Club, a club of Penn State
+                            Behrend and an organization under the MCC.</desc>
                     </org>
                     <org>
                         <orgName xml:id="AAUW">AAUW</orgName>
-                        <desc>AAUW is the initialism for American Association of University Women, a club of
-                        Penn State Behrend and an organization under the MCC.</desc>
+                        <desc>AAUW is the initialism for American Association of University Women, a
+                            club of Penn State Behrend and an organization under the MCC.</desc>
                     </org>
                     <org>
                         <orgName xml:id="CCAC">CCAC</orgName>
-                        <desc>CCAC is the initialism for Chinese Cultural Advancement Club, a club of Penn
-                        State Behrend and an organization under the MCC.</desc>
+                        <desc>CCAC is the initialism for Chinese Cultural Advancement Club, a club
+                            of Penn State Behrend and an organization under the MCC.</desc>
                     </org>
                 </listOrg>
             </abstract>
         </profileDesc>
         <encodingDesc>
-            <ab>Menus and Thank You sections have been made into lists. All typos have been
-                silently corrected. Only clubs have been given xmlids.</ab>
+            <ab>Menus and Thank You sections have been made into lists. All typos have been silently
+                corrected. Only clubs have been given xmlids.</ab>
         </encodingDesc>
     </teiHeader>
     <text>
         <group>
             <text xml:id="HDP2001">
                 <body>
-                    <pb facs="images/hdp_2001-01.jpg" n="1"/>
-                    <div type="frontPage">
-                        <p>HARAMBEE Dinner <date when="2001">2001</date></p>
-                        <p>"Celebrate Diversity”</p>
-                        <p> Presented By The <orgName ref="#MCC">Multi-Cultural
-                            Council</orgName></p>
-                        <p>
-                            <date when="2001-09-12">September 12, 2001</date> 6:00 p.m. - 8:30
-                            p.m.</p>
-                        <p> Penn State Erie the Behrend College <placeName>Reed Commons</placeName>
-                        </p>
-                    </div>
-                    <pb facs="images/hdp_2001-02.jpg" n="2"/>
-                    <div type="itinerary">
-                        <div type="welcome">
-                            <head>Welcome</head><p>- <persName>Jacqueline Jackson</persName> &amp;
-                                    <persName>Khalif Rhodes</persName></p>
-                        </div>
-                        <div type="invoc">
-                            <head>Invocation</head><p>- <persName>Adrianne Abney</persName></p>
-                        </div>
-                        <div type="intro">
-                            <head>Introduction of Cultural Performer</head><p>- <persName>Edalia
-                                    George</persName></p>
-                        </div>
-                        <div type="performance">
-                            <head>Cultural Performance</head><p>- <persName>Dollissa Stevens</persName> “The
-                                Reason Why” Poem by <persName>Nikki Giovani</persName></p>
-                        </div>
-                        <div type="meal">
-                            <head>Dinner</head>
-                        </div>
-                        <div type="intro">
-                            <head>Introduction of Speaker</head><p>- <persName>Kim Moses</persName></p>
-                        </div>
-                        <div type="speaker">
-                            <head>Speaker</head><p>- Elder <persName>Hayes Moses</persName> of
-                                    <placeName>Detroit, Michigan</placeName></p>
-                        </div>
-                        <div type="closing">
-                             <head>Closing Remarks</head><p>- <persName>Jacqueline Jackson</persName> &amp;
-                                    <persName>Khalif Rhodes</persName></p>
-                        </div>
-                        <div type="bened">
-                            <head>Benediction</head><p>- <persName>Duane Ramseur</persName></p>
+                    <div type="page">
+                        <pb facs="images/hdp_2001-01.jpg" n="1"/>
+                        <div type="content">
+                            <div type="frontPage">
+                                <p>HARAMBEE Dinner <date when="2001">2001</date></p>
+                                <p>"Celebrate Diversity”</p>
+                                <p> Presented By The <orgName ref="#MCC">Multi-Cultural
+                                        Council</orgName></p>
+                                <p>
+                                    <date when="2001-09-12">September 12, 2001</date> 6:00 p.m. -
+                                    8:30 p.m.</p>
+                                <p> Penn State Erie the Behrend College <placeName>Reed
+                                        Commons</placeName>
+                                </p>
+                            </div>
                         </div>
                     </div>
-                    <pb facs="images/hdp_2001-03.jpg" n="3"/>
-                    <div type="menu">
-                        <head>Menu</head>
-                        <list>
-                            <item>Honey Dijon Chicken</item>
-                            <item>White &amp; Wheat Dinner Rolls</item>
-                            <item>Tossed Salad</item>
-                            <item>Rice Pilaf</item>
-                            <item>Vegetable Medley</item>
-                            <item>Vegetarian Casserole</item>
-                            <item>Meatballs</item>
-                            <item>Beverages</item>
-                            <item>Fountain Punch</item>
-                            <item>Coffee</item>
-                            <item>Tea</item>
-                            <item>Water</item>
-                            <item>Dessert</item>
-                            <item>Marble Cake with Butter Cream Icing</item>
-                        </list>
+                    <div type="page">
+                        <pb facs="images/hdp_2001-02.jpg" n="2"/>
+                        <div type="content">
+                            <div type="itinerary">
+                                <div type="welcome">
+                                    <head>Welcome</head>
+                                    <p>- <persName>Jacqueline Jackson</persName> &amp;
+                                            <persName>Khalif Rhodes</persName></p>
+                                </div>
+                                <div type="invoc">
+                                    <head>Invocation</head>
+                                    <p>- <persName>Adrianne Abney</persName></p>
+                                </div>
+                                <div type="intro">
+                                    <head>Introduction of Cultural Performer</head>
+                                    <p>- <persName>Edalia George</persName></p>
+                                </div>
+                                <div type="performance">
+                                    <head>Cultural Performance</head>
+                                    <p>- <persName>Dollissa Stevens</persName> “The Reason Why” Poem
+                                        by <persName>Nikki Giovani</persName></p>
+                                </div>
+                                <div type="meal">
+                                    <head>Dinner</head>
+                                </div>
+                                <div type="intro">
+                                    <head>Introduction of Speaker</head>
+                                    <p>- <persName>Kim Moses</persName></p>
+                                </div>
+                                <div type="speaker">
+                                    <head>Speaker</head>
+                                    <p>- Elder <persName>Hayes Moses</persName> of
+                                            <placeName>Detroit, Michigan</placeName></p>
+                                </div>
+                                <div type="closing">
+                                    <head>Closing Remarks</head>
+                                    <p>- <persName>Jacqueline Jackson</persName> &amp;
+                                            <persName>Khalif Rhodes</persName></p>
+                                </div>
+                                <div type="bened">
+                                    <head>Benediction</head>
+                                    <p>- <persName>Duane Ramseur</persName></p>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <pb facs="images/hdp_2001-04.jpg" n="4"/>
-                    <div type="thanks">
-                        <head>Special Thanks</head>
-                        <list>
-                            <item><persName>Adrianne Abney</persName>
-                            </item>
-                            <item><persName>Chris Buchanan</persName>
-                            </item>
-                            <item><persName>Mila Cooper</persName></item>
-                            <item><persName>Jerri Corley</persName>
-                            </item>
-                            <item><persName>Kamilah Gordon</persName>
-                            </item>
-                            <item><persName>Jacqueline Jackson</persName>
-                            </item>
-                            <item><persName>Diana Malinowski</persName>
-                            </item>
-                            <item><persName>Stacey McCoy</persName></item>
-                            <item><persName>Ken Miller</persName>
-                            </item>
-                            <item><persName>Hayes Moses</persName></item>
-                            <item><persName>Cory Price</persName>
-                            </item>
-                            <item><persName>Duane Ramseur</persName></item>
-                            <item><persName>Chris Rizzo</persName>
-                            </item>
-                            <item><persName>Dollissa Stevens</persName>
-                            </item>
-                            <item><persName>Kimberly Smith</persName>
-                            </item>
-                            <item><persName>Kris Motta-Torok</persName></item>
-                            <item><persName>Al Vogan</persName></item>
-                            <item>
-                                <orgName ref="#ASO">Asian Student Organization</orgName>
-                            </item>
-                            <item><orgName ref="#ABC">Association of Black Collegians</orgName>
-                            </item>
-                            <item>
-                                <orgName ref="#ISO">International Student Organization</orgName>
-                            </item>
-                            <item><orgName ref="#NSBE">National Society of Black
-                                Engineers</orgName></item>
-                            <item>Organization of African Students </item>
-                            <item><orgName ref="#OLAS">Organization of Latin American
-                                    Students</orgName></item>
-                            <item><orgName ref="#GASE">Trigon</orgName>
-                            </item>
-                            <item><orgName ref="#WT">Women Today</orgName>
-                            </item>
-                            <item>Housing &amp; Food Services </item>
-                            <item>Student Activities Staff</item>
-                            <item>Student Affairs Staff </item>
-                            <item><orgName ref="#MCC">Multi-Cultural Council</orgName> (Executive
-                                Board) </item>
-                            <item>Everybody that had any part in making this event happen</item>
-                        </list>
+                    <div type="page">
+                        <pb facs="images/hdp_2001-03.jpg" n="3"/>
+                        <div type="content">
+                            <div type="menu">
+                                <head>Menu</head>
+                                <list>
+                                    <item>Honey Dijon Chicken</item>
+                                    <item>White &amp; Wheat Dinner Rolls</item>
+                                    <item>Tossed Salad</item>
+                                    <item>Rice Pilaf</item>
+                                    <item>Vegetable Medley</item>
+                                    <item>Vegetarian Casserole</item>
+                                    <item>Meatballs</item>
+                                    <item>Beverages</item>
+                                    <item>Fountain Punch</item>
+                                    <item>Coffee</item>
+                                    <item>Tea</item>
+                                    <item>Water</item>
+                                    <item>Dessert</item>
+                                    <item>Marble Cake with Butter Cream Icing</item>
+                                </list>
+                            </div>
+                        </div>
                     </div>
+                    <div type="page">
+                        <pb facs="images/hdp_2001-04.jpg" n="4"/>
+                        <div type="content">
+                            <div type="thanks">
+                                <head>Special Thanks</head>
+                                <list>
+                                    <item><persName>Adrianne Abney</persName>
+                                    </item>
+                                    <item><persName>Chris Buchanan</persName>
+                                    </item>
+                                    <item><persName>Mila Cooper</persName></item>
+                                    <item><persName>Jerri Corley</persName>
+                                    </item>
+                                    <item><persName>Kamilah Gordon</persName>
+                                    </item>
+                                    <item><persName>Jacqueline Jackson</persName>
+                                    </item>
+                                    <item><persName>Diana Malinowski</persName>
+                                    </item>
+                                    <item><persName>Stacey McCoy</persName></item>
+                                    <item><persName>Ken Miller</persName>
+                                    </item>
+                                    <item><persName>Hayes Moses</persName></item>
+                                    <item><persName>Cory Price</persName>
+                                    </item>
+                                    <item><persName>Duane Ramseur</persName></item>
+                                    <item><persName>Chris Rizzo</persName>
+                                    </item>
+                                    <item><persName>Dollissa Stevens</persName>
+                                    </item>
+                                    <item><persName>Kimberly Smith</persName>
+                                    </item>
+                                    <item><persName>Kris Motta-Torok</persName></item>
+                                    <item><persName>Al Vogan</persName></item>
+                                    <item>
+                                        <orgName ref="#ASO">Asian Student Organization</orgName>
+                                    </item>
+                                    <item><orgName ref="#ABC">Association of Black
+                                            Collegians</orgName>
+                                    </item>
+                                    <item>
+                                        <orgName ref="#ISO">International Student
+                                            Organization</orgName>
+                                    </item>
+                                    <item><orgName ref="#NSBE">National Society of Black
+                                            Engineers</orgName></item>
+                                    <item>Organization of African Students </item>
+                                    <item><orgName ref="#OLAS">Organization of Latin American
+                                            Students</orgName></item>
+                                    <item><orgName ref="#GASE">Trigon</orgName>
+                                    </item>
+                                    <item><orgName ref="#WT">Women Today</orgName>
+                                    </item>
+                                    <item>Housing &amp; Food Services </item>
+                                    <item>Student Activities Staff</item>
+                                    <item>Student Affairs Staff </item>
+                                    <item><orgName ref="#MCC">Multi-Cultural Council</orgName>
+                                        (Executive Board) </item>
+                                    <item>Everybody that had any part in making this event
+                                        happen</item>
+                                </list>
+                            </div>
+                        </div>
+                    </div>
+
                 </body>
             </text>
             <text xml:id="HDP2003">
                 <body>
-                    <pb facs="images/hdp_2003-01.jpg" n="1"/>
-                    <div type="frontPage">
-                        <p>Welcome 17th Annual Harambee <date when="2003-10-03">Friday, October 3,
-                                2003</date></p>
-                        <p><placeName>McGarvey Commons</placeName></p>
-                        <p>Program</p>
-                        <p>Harambee is Swahili for "Let us all pull together" and originated in the
-                            country of Kenya as a slogan for national unity. We use this celebration
-                            as a way to unite our campus community and celebrate the cultures and
-                            richness of diversity that is represented among our students, faculty,
-                            and staff. </p>
-                    </div>
-                    <pb facs="images/hdp_2003-02.jpg" n="2"/>
-   <!--2021-01-28 ebb: Suggestion: Try using TEI P5 epigraph coding for cited quotations appearing at the top of a document:
- <epigraph>
-  <cit>
-   <quote>
-    <l>Since I can do no good because a woman</l>
-    <l>Reach constantly at something that is near it.</l>
-   </quote>
-   <bibl>
-    <title>The Maid's Tragedy</title>
-    <author>Beaumont and Fletcher</author>
-   </bibl>
-  </cit>
- </epigraph>
- 
- Read more about it here: https://tei-c.org/release/doc/tei-p5-doc/en/html/examples-quote.html
-                    
-                    -->
-                    <div type="quote">
-                        <head>UNITY</head>
-                        <quote>Majestic moon and splendid sun, all a part of everyone.</quote>
-                        <p><persName>Rick Doran</persName></p>
-                    </div>
-                    <div type="itinerary">
-                        <div type="ushers">
-                            <head>Ushers</head>
-                            <p><persName>Shirelle Evans</persName></p>
-                            <p><persName>Sun Ryan Tusi</persName>
-                            </p>
-                            <p><persName>Alima Polley</persName></p>
-                            <p><persName>Sunny Yang</persName></p>
+                    <div type="page">
+                        <pb facs="images/hdp_2003-01.jpg" n="1"/>
+                        <div type="content">
+                            <div type="frontPage">
+                                <p>Welcome 17th Annual Harambee <date when="2003-10-03">Friday,
+                                        October 3, 2003</date></p>
+                                <p><placeName>McGarvey Commons</placeName></p>
+                                <p>Program</p>
+                                <p>Harambee is Swahili for "Let us all pull together" and originated
+                                    in the country of Kenya as a slogan for national unity. We use
+                                    this celebration as a way to unite our campus community and
+                                    celebrate the cultures and richness of diversity that is
+                                    represented among our students, faculty, and staff. </p>
+                            </div>
                         </div>
                     </div>
-                    <div type="menu">
-                        <head>Menu</head>
-                        <list>
-                            <item>Tossed Salad</item>
-                            <item>Honey Dijon Chicken</item>
-                            <item>Rice Pilaf</item>
-                            <item>Vegetable Medley</item>
-                            <item>Cheese Lasagna</item>
-                            <item>Meatballs</item>
-                            <item>Dinner Rolls</item>
-                            <item>Fountain Punch</item>
-                            <item>Decaf/Tea</item>
-                            <item>Marble Sheet Cake</item>
-                        </list>
-                    </div>
-                    <pb facs="images/hdp_2003-03.jpg" n="3"/>
-                    <div type="itinerary">
-                        <div type="welcome">
-                            <head>Welcome</head>
-                            <p>Ms. <persName>Olga Nacalaban</persName></p>
-                        </div>
-                        <div type="invoc">
-                            <head>Invocation </head>
-                            <p> Irish American Society (IAS)</p>
-                        </div>
-                        <div type="intro">
-                            <head>Introduction to Speaker </head>
-                            <p>Ms. <persName>Jessica Dearolf</persName></p>
-                        </div>
-                        <div type="speaker">
-                            <head>Guest Speaker</head>
-                            <p>Mr. <persName>Forrest Parker</persName></p>
-                            <p><roleName>President &amp; Chief Executive Officer of the Virginia
-                                    Educational Council on Multi-Ethnic Concerns</roleName></p>
-                        </div>
-                        <div type="intro">
-                            <head>Introduction to Dance Group</head>
-                            <p>Mr. <persName>George Morgan</persName></p>
-                        </div>
-                        <div type="performance">
-                            <head>Dance Group </head>
-                            <p><persName>Tom</persName> and <persName>Susana Evert</persName></p>
-                            <p>Dance Theatre </p>
-                            <p> ALMA DE LA TIERRA</p>
-                        </div>
-                        <div type="acknow">
-                            <head> Acknowledgement of Alumni</head>
-                            <p>Ms. <persName>Edalia George</persName></p>
-                        </div>
-                        <div type="apprec">
-                            <head> Appreciation Remarks </head>
-                            <p>Mr. <persName>Nana Osei-Bansu</persName></p>
-                        </div>
-                        <div type="closing">
-                            <head>Closing Words</head>
-                            <p>Ms. <persName>Tabitha Chase</persName></p>
+                    <div type="page">
+                        <pb facs="images/hdp_2003-02.jpg" n="2"/>
+                        <div type="content">
+                            <div type="quote">
+                                <head>UNITY</head>
+                                <quote>Majestic moon and splendid sun, all a part of
+                                    everyone.</quote>
+                                <p><persName>Rick Doran</persName></p>
+                            </div>
+                            <div type="itinerary">
+                                <div type="ushers">
+                                    <head>Ushers</head>
+                                    <p><persName>Shirelle Evans</persName></p>
+                                    <p><persName>Sun Ryan Tusi</persName>
+                                    </p>
+                                    <p><persName>Alima Polley</persName></p>
+                                    <p><persName>Sunny Yang</persName></p>
+                                </div>
+                            </div>
+                            <div type="menu">
+                                <head>Menu</head>
+                                <list>
+                                    <item>Tossed Salad</item>
+                                    <item>Honey Dijon Chicken</item>
+                                    <item>Rice Pilaf</item>
+                                    <item>Vegetable Medley</item>
+                                    <item>Cheese Lasagna</item>
+                                    <item>Meatballs</item>
+                                    <item>Dinner Rolls</item>
+                                    <item>Fountain Punch</item>
+                                    <item>Decaf/Tea</item>
+                                    <item>Marble Sheet Cake</item>
+                                </list>
+                            </div>
                         </div>
                     </div>
-                    <pb facs="images/hdp_2003-04.jpg" n="4"/>
-                    <div type="thanks">
-                        <head>Special Thank you</head>
-                        <list>
-                            <item><persName>Forrest Parker</persName></item>
-                            <item>
-                                <persName>Tom</persName> &amp; <persName>Susana Evert</persName>
-                                Dance Theater</item>
-                            <item>
-                                <persName>Andy Herrera</persName>
-                            </item>
-                            <item> Housing and Food Services </item>
-                            <item> RUB Information Desk</item>
-                            <item>
-                                <persName>Judy Glembocki</persName>
-                            </item>
-                            <item> SAF committee</item>
-                            <item>
-                                <orgName ref="#SGA">SGA</orgName></item>
-                            <item>
-                                <orgName ref="#MCC">MCC</orgName> E-Board</item>
-                            <item>
-                                <orgName ref="#ISO">ISO</orgName></item>
-                            <item>
-                                <orgName ref="#ASO">ASO</orgName></item>
-                            <item>
-                                <orgName ref="#ABC">ABC</orgName></item>
-                            <item><orgName ref="#MCC">MCC</orgName></item>
-                            <item>
-                                <orgName ref="#MCC">Multi-Cultural Council</orgName></item>
-                            <item>
-                                <orgName ref="#SGA">SGA</orgName></item>
-                            <item> Office of Educational Equity Programs </item>
-                        </list>
-                        <p> Celebrating diversity on campus! </p>
+                    <div type="page">
+                        <pb facs="images/hdp_2003-03.jpg" n="3"/>
+                        <div type="content">
+                            <div type="itinerary">
+                                <div type="welcome">
+                                    <head>Welcome</head>
+                                    <p>Ms. <persName>Olga Nacalaban</persName></p>
+                                </div>
+                                <div type="invoc">
+                                    <head>Invocation </head>
+                                    <p> Irish American Society (IAS)</p>
+                                </div>
+                                <div type="intro">
+                                    <head>Introduction to Speaker </head>
+                                    <p>Ms. <persName>Jessica Dearolf</persName></p>
+                                </div>
+                                <div type="speaker">
+                                    <head>Guest Speaker</head>
+                                    <p>Mr. <persName>Forrest Parker</persName></p>
+                                    <p><roleName>President &amp; Chief Executive Officer of the
+                                            Virginia Educational Council on Multi-Ethnic
+                                            Concerns</roleName></p>
+                                </div>
+                                <div type="intro">
+                                    <head>Introduction to Dance Group</head>
+                                    <p>Mr. <persName>George Morgan</persName></p>
+                                </div>
+                                <div type="performance">
+                                    <head>Dance Group </head>
+                                    <p><persName>Tom</persName> and <persName>Susana
+                                            Evert</persName></p>
+                                    <p>Dance Theatre </p>
+                                    <p> ALMA DE LA TIERRA</p>
+                                </div>
+                                <div type="acknow">
+                                    <head> Acknowledgement of Alumni</head>
+                                    <p>Ms. <persName>Edalia George</persName></p>
+                                </div>
+                                <div type="apprec">
+                                    <head> Appreciation Remarks </head>
+                                    <p>Mr. <persName>Nana Osei-Bansu</persName></p>
+                                </div>
+                                <div type="closing">
+                                    <head>Closing Words</head>
+                                    <p>Ms. <persName>Tabitha Chase</persName></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div type="page">
+                        <pb facs="images/hdp_2003-04.jpg" n="4"/>
+                        <div type="content">
+                            <div type="thanks">
+                                <head>Special Thank you</head>
+                                <list>
+                                    <item><persName>Forrest Parker</persName></item>
+                                    <item>
+                                        <persName>Tom</persName> &amp; <persName>Susana
+                                            Evert</persName> Dance Theater</item>
+                                    <item>
+                                        <persName>Andy Herrera</persName>
+                                    </item>
+                                    <item> Housing and Food Services </item>
+                                    <item> RUB Information Desk</item>
+                                    <item>
+                                        <persName>Judy Glembocki</persName>
+                                    </item>
+                                    <item> SAF committee</item>
+                                    <item>
+                                        <orgName ref="#SGA">SGA</orgName></item>
+                                    <item>
+                                        <orgName ref="#MCC">MCC</orgName> E-Board</item>
+                                    <item>
+                                        <orgName ref="#ISO">ISO</orgName></item>
+                                    <item>
+                                        <orgName ref="#ASO">ASO</orgName></item>
+                                    <item>
+                                        <orgName ref="#ABC">ABC</orgName></item>
+                                    <item><orgName ref="#MCC">MCC</orgName></item>
+                                    <item>
+                                        <orgName ref="#MCC">Multi-Cultural Council</orgName></item>
+                                    <item>
+                                        <orgName ref="#SGA">SGA</orgName></item>
+                                    <item> Office of Educational Equity Programs </item>
+                                </list>
+                                <p> Celebrating diversity on campus! </p>
+                            </div>
+                        </div>
                     </div>
                 </body>
             </text>
             <text xml:id="HDP2008">
                 <body>
-                    <pb facs="images/hdp_2008-01.jpg" n="1"/>
-                    <div type="frontPage">
-                        <p>Harambee <date when="2008">2008</date></p>
-                        <p>*Celebrating 22 years of Unity at Behrend*</p>
+                    <div type="page">
+                        <pb facs="images/hdp_2008-01.jpg" n="1"/>
+                        <div type="content">
+                            <div type="frontPage">
+                                <p>Harambee <date when="2008">2008</date></p>
+                                <p>*Celebrating 22 years of Unity at Behrend*</p>
+                            </div>
+                            <div type="ushers">
+                                <head>Ushers</head>
+                                <p>Mr. <persName>Earl Bass</persName></p>
+                                <p>Mr. <persName>Ryan Horton</persName></p>
+                                <p>Mr. <persName>Elton Armady</persName></p>
+                                <p>Mr. <persName>Bryan Campbell</persName></p>
+                            </div>
+                            <div type="menu">
+                                <head>Menu</head>
+                                <list>
+                                    <item>Tossed Salad</item>
+                                    <item>Honey Dijon Chicken</item>
+                                    <item>Rice Pilaf</item>
+                                    <item>Vegetable Medley</item>
+                                    <item>Cheese Lasagna</item>
+                                    <item>Meatballs</item>
+                                    <item>Dinner Rolls</item>
+                                    <item>Fountain Punch</item>
+                                    <item>Decaf/Tea</item>
+                                    <item>Marble Sheet Cake</item>
+                                </list>
+                            </div>
+                        </div>
                     </div>
-                    <div type="ushers">
-                        <head>Ushers</head>
-                        <p>Mr. <persName>Earl Bass</persName></p>
-                        <p>Mr. <persName>Ryan Horton</persName></p>
-                        <p>Mr. <persName>Elton Armady</persName></p>
-                        <p>Mr. <persName>Bryan Campbell</persName></p>
-                    </div>
-                    <div type="menu">
-                        <head>Menu</head>
-                        <list>
-                            <item>Tossed Salad</item>
-                            <item>Honey Dijon Chicken</item>
-                            <item>Rice Pilaf</item>
-                            <item>Vegetable Medley</item>
-                            <item>Cheese Lasagna</item>
-                            <item>Meatballs</item>
-                            <item>Dinner Rolls</item>
-                            <item>Fountain Punch</item>
-                            <item>Decaf/Tea</item>
-                            <item>Marble Sheet Cake</item>
-                        </list>
-                    </div>
-                    <pb facs="images/hdp_2008-02.jpg" n="2"/>
-                    <div type="itinerary">
-                        <div type="welcome">
-                            <head>WELCOME</head>
-                            <p><persName>Adell Coleman</persName></p>
-                            <p><roleName>President of the <orgName ref="#MCC">Multi-Cultural
-                                        Council</orgName> (<orgName ref="#MCC"
-                                    >MCC</orgName>)</roleName></p>
-                        </div>
-                        <div type="invoc">
-                            <head>INVOCATION OF HARAMBEE</head>
-                            <p><persName>Deb Workman</persName></p>
-                            <p><roleName>President of <orgName ref="#WT">Women
-                                    Today</orgName></roleName></p>
-                        </div>
-                        <div type="meal">
-                            <head>DINNER</head>
-                            <p>Jack Burke Presentation</p>
-                            <p><persName>Elton Armady</persName> and <persName>Pascale
-                                    Barthelemy</persName> (<orgName ref="#MCC">MCC</orgName>)</p>
-                        </div>
-                        <div type="intro">
-                            <head>Introduction of Speaker</head>
-                            <p>Ms. <persName>Paris Norwood</persName></p>
-                            <p><roleName>President of the <orgName ref="#ABC">Association of Black
-                                        Collegians</orgName> (<orgName ref="#ABC"
-                                    >ABC</orgName>)</roleName></p>
-                        </div>
-                        <div type="speaker">
-                            <head> Guest Speaker</head>
-                            <p><persName>Azeem</persName></p>
-                        </div>
-                        <div type="intro">
-                            <head>Introduction of Dance Group</head>
-                            <p><persName>Samirah Gittens</persName>
-                            </p>
-                            <p><roleName>President <orgName ref="#NSBE">National Society of Black
-                                        Engineers</orgName> (<orgName ref="NSBE"
-                                    >NSBE</orgName>)</roleName></p>
-                        </div>
-                        <div type="performance">
-                            <head>Dance Group </head>
-                            <p><persName>Marcia Sanchez Loebick</persName></p>
-                            <p>"La Romera" </p>
-                            <p>Spanish Flamenco Dances</p>
-                        </div>
-                        <div type="closing">
-                            <head>Closing Words </head>
-                            <p><persName>Crystal Lake</persName>
-                            </p>
-                            <p><roleName>Vice President (<orgName ref="#MCC"
-                                    >MCC</orgName>)</roleName></p>
+                    <div type="page">
+                        <pb facs="images/hdp_2008-02.jpg" n="2"/>
+                        <div type="content">
+                            <div type="itinerary">
+                                <div type="welcome">
+                                    <head>WELCOME</head>
+                                    <p><persName>Adell Coleman</persName></p>
+                                    <p><roleName>President of the <orgName ref="#MCC">Multi-Cultural
+                                                Council</orgName> (<orgName ref="#MCC"
+                                            >MCC</orgName>)</roleName></p>
+                                </div>
+                                <div type="invoc">
+                                    <head>INVOCATION OF HARAMBEE</head>
+                                    <p><persName>Deb Workman</persName></p>
+                                    <p><roleName>President of <orgName ref="#WT">Women
+                                                Today</orgName></roleName></p>
+                                </div>
+                                <div type="meal">
+                                    <head>DINNER</head>
+                                    <p>Jack Burke Presentation</p>
+                                    <p><persName>Elton Armady</persName> and <persName>Pascale
+                                            Barthelemy</persName> (<orgName ref="#MCC"
+                                        >MCC</orgName>)</p>
+                                </div>
+                                <div type="intro">
+                                    <head>Introduction of Speaker</head>
+                                    <p>Ms. <persName>Paris Norwood</persName></p>
+                                    <p><roleName>President of the <orgName ref="#ABC">Association of
+                                                Black Collegians</orgName> (<orgName ref="#ABC"
+                                                >ABC</orgName>)</roleName></p>
+                                </div>
+                                <div type="speaker">
+                                    <head> Guest Speaker</head>
+                                    <p><persName>Azeem</persName></p>
+                                </div>
+                                <div type="intro">
+                                    <head>Introduction of Dance Group</head>
+                                    <p><persName>Samirah Gittens</persName>
+                                    </p>
+                                    <p><roleName>President <orgName ref="#NSBE">National Society of
+                                                Black Engineers</orgName> (<orgName ref="NSBE"
+                                                >NSBE</orgName>)</roleName></p>
+                                </div>
+                                <div type="performance">
+                                    <head>Dance Group </head>
+                                    <p><persName>Marcia Sanchez Loebick</persName></p>
+                                    <p>"La Romera" </p>
+                                    <p>Spanish Flamenco Dances</p>
+                                </div>
+                                <div type="closing">
+                                    <head>Closing Words </head>
+                                    <p><persName>Crystal Lake</persName>
+                                    </p>
+                                    <p><roleName>Vice President (<orgName ref="#MCC"
+                                            >MCC</orgName>)</roleName></p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </body>
             </text>
             <text xml:id="HDP2009">
                 <body>
-                    <pb facs="images/hdp_2009-01.jpg" n="1"/>
-                    <div type="frontPage">
-                        <p>Welcome 23rd Annual Harambee <date when="2009-10-15">Thursday, October
-                                15, 2009</date></p>
-                        <p><placeName>McGarvey Commons</placeName></p>
-                        <p>Program</p>
-                        <p>Harambee is Swahili for “Let us all pull together" and originated in the
-                            country of Kenya as a slogan for national unity. We use this celebration
-                            as a way to unite our campus community and celebrate the cultures and
-                            richness of diversity that is represented among our students, faculty,
-                            and staff. </p>
-                    </div>
-                    <pb facs="images/hdp_2009-02.jpg" n="2"/>
-                    <div type="quote">
-                        <head>UNITY</head>
-                        <quote>Majestic moon and splendid sun, all a part of everyone.</quote>
-                        <p><persName>Rick Doran</persName></p>
-                    </div>
-                    <div type="itinerary">
-                        <div type="gift">
-                        <head>Gift Presenters</head>
-                        <p>Ms. <persName>Dawn Richards</persName>
-                        </p>
-                        <p>Ms. <persName>Crystal Lake</persName></p>
+                    <div type="page">
+                        <pb facs="images/hdp_2009-01.jpg" n="1"/>
+                        <div type="content">
+                            <div type="frontPage">
+                                <p>Welcome 23rd Annual Harambee <date when="2009-10-15">Thursday,
+                                        October 15, 2009</date></p>
+                                <p><placeName>McGarvey Commons</placeName></p>
+                                <p>Program</p>
+                                <p>Harambee is Swahili for “Let us all pull together" and originated
+                                    in the country of Kenya as a slogan for national unity. We use
+                                    this celebration as a way to unite our campus community and
+                                    celebrate the cultures and richness of diversity that is
+                                    represented among our students, faculty, and staff. </p>
+                            </div>
                         </div>
                     </div>
-                    <div type="menu">
-                        <head>Menu</head>
-                        <list>
-                            <item>Tossed Salad</item>
-                            <item>Stuffed Chicken</item>
-                            <item>Rice Pilaf</item>
-                            <item>Vegetable Medley</item>
-                            <item>Cheese Lasagna</item>
-                            <item>Meatballs</item>
-                            <item>Dinner Rolls</item>
-                            <item>Fountain Punch</item>
-                            <item>Decaf/Tea</item>
-                            <item>Marble Sheet Cake</item>
-                        </list>
-                    </div>
-                    <pb facs="images/hdp_2009-03.jpg" n="3"/>
-                    <div type="itinerary">
-                        <div type="welcome">
-                            <head>Welcome</head>
-                            <p>Mr. <persName>Earl Bass</persName>
-                            </p>
-                            <p><orgName ref="#MCC">Multi-Cultural Council</orgName></p>
-                        </div>
-                        <div type="invoc">
-                            <head>Invocation </head>
-                            <p>Ms. <persName>Virginia Rodgers</persName></p>
-                            <p><orgName ref="#GASE">Trigon</orgName></p>
-                        </div>
-                        <div type="meal">
-                            <head> Invitation to Eat </head>
-                            <p>Ms. <persName>Melinda Egeruoh</persName>
-                            </p>
-                            <p><orgName ref="#MCC">Multi-Cultural Council</orgName></p>
-                        </div>
-                        <div type="intro">
-                            <head>Introduction to Speaker</head>
-                            <p>Ms. <persName>Vetta Stepanyan</persName>
-                            </p>
-                            <p><orgName ref="#ISO">International Student Organization</orgName></p>
-                        </div>
-                        <div type="speaker">
-                            <head> Guest Speaker </head>
-                            <p> Mr. <persName>Marvin Worthy</persName></p>
-                            <p> President and CEO of Worthy and Consulting &amp; Training</p>
-                        </div>
-                        <div type="intro">
-                            <head>Introduction to Musical Performance</head>
-                            <p>Mr. <persName>Mohamed Salah</persName>
-                            </p>
-                            <p><orgName>Muslim Student Association</orgName></p>
-                        </div>
-                        <div type="performance">
-                            <head>Musical Performance </head>
-                            <p><persName>Icho Daiko</persName>, The Taiko Group</p>
-                        </div>
-                        <div type="closing">
-                            <head> Closing Words </head>
-                            <p>Ms. <persName>Pascale Barthelemy</persName>
-                            </p>
-                            <p><orgName ref="#MCC">Multi-Cultural Council</orgName></p>
+                    <div type="page">
+                        <pb facs="images/hdp_2009-02.jpg" n="2"/>
+                        <div type="content">
+                            <div type="quote">
+                                <head>UNITY</head>
+                                <quote>Majestic moon and splendid sun, all a part of
+                                    everyone.</quote>
+                                <p><persName>Rick Doran</persName></p>
+                            </div>
+                            <div type="itinerary">
+                                <div type="gift">
+                                    <head>Gift Presenters</head>
+                                    <p>Ms. <persName>Dawn Richards</persName>
+                                    </p>
+                                    <p>Ms. <persName>Crystal Lake</persName></p>
+                                </div>
+                            </div>
+                            <div type="menu">
+                                <head>Menu</head>
+                                <list>
+                                    <item>Tossed Salad</item>
+                                    <item>Stuffed Chicken</item>
+                                    <item>Rice Pilaf</item>
+                                    <item>Vegetable Medley</item>
+                                    <item>Cheese Lasagna</item>
+                                    <item>Meatballs</item>
+                                    <item>Dinner Rolls</item>
+                                    <item>Fountain Punch</item>
+                                    <item>Decaf/Tea</item>
+                                    <item>Marble Sheet Cake</item>
+                                </list>
+                            </div>
                         </div>
                     </div>
-                    <pb facs="images/hdp_2009-04.jpg" n="4"/>
-                    <div type="thanks">
-                        <head>Special Thank you</head>
-                        <list>
-                            <item> Mr. <persName>Marvin Worthy</persName></item>
-                            <item>
-                                <persName>Icho Daiko</persName></item>
-                            <item> Mr. <persName>Andy Herrera</persName>
-                            </item>
-                            <item> Housing and Food Services </item>
-                            <item>RUB Information Desk</item>
-                            <item>SAF Committee</item>
-                            <item><orgName ref="#SGA">SGA</orgName></item>
-                            <item> SESTEDER</item>
-                            <item>
-                                <orgName ref="#MCC">MCC</orgName> E-Board</item>
-                            <item><orgName ref="#ISO">ISO</orgName></item>
-                            <item>
-                                <orgName ref="#MSA">MSA</orgName></item>
-                            <item>
-                                <orgName ref="#OLAS">OLAS</orgName></item>
-                            <item><orgName ref="#GASE">Trigon</orgName>
-                            </item>
-                            <item>Office of Student Activities</item>
-                            <item><orgName ref="#MCC">MCC</orgName></item>
-                            <item>
-                                <orgName ref="#MCC">Multi-Cultural Council</orgName></item>
-                            <item>
-                                <orgName ref="#SGA">SGA</orgName></item>
-                            <item>Office of Educational Equity &amp; Diversity Programs </item>
-                        </list>
-                        <p>Celebrating diversity on campus! </p>
+                    <div type="page">
+                        <pb facs="images/hdp_2009-03.jpg" n="3"/>
+                        <div type="content">
+                            <div type="itinerary">
+                                <div type="welcome">
+                                    <head>Welcome</head>
+                                    <p>Mr. <persName>Earl Bass</persName>
+                                    </p>
+                                    <p><orgName ref="#MCC">Multi-Cultural Council</orgName></p>
+                                </div>
+                                <div type="invoc">
+                                    <head>Invocation </head>
+                                    <p>Ms. <persName>Virginia Rodgers</persName></p>
+                                    <p><orgName ref="#GASE">Trigon</orgName></p>
+                                </div>
+                                <div type="meal">
+                                    <head> Invitation to Eat </head>
+                                    <p>Ms. <persName>Melinda Egeruoh</persName>
+                                    </p>
+                                    <p><orgName ref="#MCC">Multi-Cultural Council</orgName></p>
+                                </div>
+                                <div type="intro">
+                                    <head>Introduction to Speaker</head>
+                                    <p>Ms. <persName>Vetta Stepanyan</persName>
+                                    </p>
+                                    <p><orgName ref="#ISO">International Student
+                                            Organization</orgName></p>
+                                </div>
+                                <div type="speaker">
+                                    <head> Guest Speaker </head>
+                                    <p> Mr. <persName>Marvin Worthy</persName></p>
+                                    <p> President and CEO of Worthy and Consulting &amp;
+                                        Training</p>
+                                </div>
+                                <div type="intro">
+                                    <head>Introduction to Musical Performance</head>
+                                    <p>Mr. <persName>Mohamed Salah</persName>
+                                    </p>
+                                    <p><orgName>Muslim Student Association</orgName></p>
+                                </div>
+                                <div type="performance">
+                                    <head>Musical Performance </head>
+                                    <p><persName>Icho Daiko</persName>, The Taiko Group</p>
+                                </div>
+                                <div type="closing">
+                                    <head> Closing Words </head>
+                                    <p>Ms. <persName>Pascale Barthelemy</persName>
+                                    </p>
+                                    <p><orgName ref="#MCC">Multi-Cultural Council</orgName></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div type="page">
+                        <pb facs="images/hdp_2009-04.jpg" n="4"/>
+                        <div type="content">
+                            <div type="thanks">
+                                <head>Special Thank you</head>
+                                <list>
+                                    <item> Mr. <persName>Marvin Worthy</persName></item>
+                                    <item>
+                                        <persName>Icho Daiko</persName></item>
+                                    <item> Mr. <persName>Andy Herrera</persName>
+                                    </item>
+                                    <item> Housing and Food Services </item>
+                                    <item>RUB Information Desk</item>
+                                    <item>SAF Committee</item>
+                                    <item><orgName ref="#SGA">SGA</orgName></item>
+                                    <item> SESTEDER</item>
+                                    <item>
+                                        <orgName ref="#MCC">MCC</orgName> E-Board</item>
+                                    <item><orgName ref="#ISO">ISO</orgName></item>
+                                    <item>
+                                        <orgName ref="#MSA">MSA</orgName></item>
+                                    <item>
+                                        <orgName ref="#OLAS">OLAS</orgName></item>
+                                    <item><orgName ref="#GASE">Trigon</orgName>
+                                    </item>
+                                    <item>Office of Student Activities</item>
+                                    <item><orgName ref="#MCC">MCC</orgName></item>
+                                    <item>
+                                        <orgName ref="#MCC">Multi-Cultural Council</orgName></item>
+                                    <item>
+                                        <orgName ref="#SGA">SGA</orgName></item>
+                                    <item>Office of Educational Equity &amp; Diversity Programs
+                                    </item>
+                                </list>
+                                <p>Celebrating diversity on campus! </p>
+                            </div>
+                        </div>
                     </div>
                 </body>
             </text>
             <text xml:id="HDP2010">
                 <body>
-                    <pb facs="images/hdp_2010-01.jpg" n="1"/>
-                    <div type="frontPage">
-                        <p>Welcome to the 24th Annual Harambee Dinner <date when="2010-10-21"
-                                >Thursday, October 21, 2010</date></p>
-                        <p>Harambee is Swahili for “Let us all pull together”, it originated in the
-                            country of Kenya as a slogan for national unity. We use this celebration
-                            as a way to unite our campus community and to celebrate the culture and
-                            richness of diversity represented among our students, faculty and staff.
-                        </p>
+                    <div type="page">
+                        <pb facs="images/hdp_2010-01.jpg" n="1"/>
+                        <div type="content">
+                            <div type="frontPage">
+                                <p>Welcome to the 24th Annual Harambee Dinner <date
+                                        when="2010-10-21">Thursday, October 21, 2010</date></p>
+                                <p>Harambee is Swahili for “Let us all pull together”, it originated
+                                    in the country of Kenya as a slogan for national unity. We use
+                                    this celebration as a way to unite our campus community and to
+                                    celebrate the culture and richness of diversity represented
+                                    among our students, faculty and staff. </p>
+                            </div>
+                        </div>
                     </div>
-                    <pb facs="images/hdp_2010-02.jpg" n="2"/>
-                    <div type="menu">
-                        <head>Menu</head>
-                        <list>
-                            <item>Tossed Salad</item>
-                            <item>Rice Pilaf</item>
-                            <item>Cheese Lasagna</item>
-                            <item>Dinner Rolls</item>
-                            <item>Stuffed Chicken Breast</item>
-                            <item>Roasted Potatoes</item>
-                            <item>Meatballs</item>
-                            <item>Fountain Punch</item>
-                            <item>Marble Sheet Cake</item>
-                        </list>
+                    <div type="page">
+                        <pb facs="images/hdp_2010-02.jpg" n="2"/>
+                        <div type="content">
+                            <div type="menu">
+                                <head>Menu</head>
+                                <list>
+                                    <item>Tossed Salad</item>
+                                    <item>Rice Pilaf</item>
+                                    <item>Cheese Lasagna</item>
+                                    <item>Dinner Rolls</item>
+                                    <item>Stuffed Chicken Breast</item>
+                                    <item>Roasted Potatoes</item>
+                                    <item>Meatballs</item>
+                                    <item>Fountain Punch</item>
+                                    <item>Marble Sheet Cake</item>
+                                </list>
+                            </div>
+                            <div type="thanks">
+                                <head>Special Thank You To:</head>
+                                <list>
+                                    <item>Mr. <persName>Andy Herrera</persName></item>
+                                    <item><orgName ref="#MCC">MCC</orgName> Adviser</item>
+                                    <item>Ms. <persName>Nicole Fedders</persName></item>
+                                    <item>Coordinator of Student Organizations &amp; Program
+                                        Development</item>
+                                    <item>Cultural Centre of India</item>
+                                    <item>Cross-Cultural Psychology Class</item>
+                                    <item>Housing and Food Services</item>
+                                    <item>SAF Committee</item>
+                                    <item><orgName ref="#MCC">MCC</orgName> E-Board</item>
+                                    <item><orgName ref="#ABC">ABC</orgName></item>
+                                    <item><orgName ref="#OACS">OACS</orgName></item>
+                                </list>
+                            </div>
+                            <div type="celebrating">
+                                <p>Celebrating 24 years of unity at Behrend!</p>
+                            </div>
+                        </div>
                     </div>
-                    <div type="thanks">
-                        <head>Special Thank You To:</head>
-                        <list>
-                            <item>Mr. <persName>Andy Herrera</persName></item>
-                            <item><orgName ref="#MCC">MCC</orgName> Adviser</item>
-                            <item>Ms. <persName>Nicole Fedders</persName></item>
-                            <item>Coordinator of Student Organizations &amp; Program
-                                Development</item>
-                            <item>Cultural Centre of India</item>
-                            <item>Cross-Cultural Psychology Class</item>
-                            <item>Housing and Food Services</item>
-                            <item>SAF Committee</item>
-                            <item><orgName ref="#MCC">MCC</orgName> E-Board</item>
-                            <item><orgName ref="#ABC">ABC</orgName></item>
-                            <item><orgName ref="#OACS">OACS</orgName></item>
-                        </list>
-                    </div>
-                    <div type="celebrating">
-                        <p>Celebrating 24 years of unity at Behrend!</p>
-                    </div>
-                    <pb facs="images/hdp_2010-03.jpg" n="3"/>
-                    <div type="itinerary">
-                        <div type="welcome">
-                            <head>WELCOME</head>
-                            <p><persName>Chanel Easley</persName>
-                            </p>
-                            <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
-                                        (<orgName ref="#MCC">MCC</orgName>) President</roleName></p>
-                        </div>
-                        <div type="invoc">
-                            <head>INVOCATION TO HARAMBEE</head>
-                            <p><persName>Ray Smith</persName></p>
-                            <p><roleName><orgName ref="#ABC">Association of Black
-                                        Collegians</orgName> (<orgName ref="#ABC">ABC</orgName>)
-                                    Representative to <orgName ref="#MCC"
-                                >MCC</orgName></roleName></p>
-                        </div>
-                        <div type="meal">
-                            <head>DINNER</head>
-                        </div>
-                        <div type="intro">
-                            <head>INTRODUCTION TO POETRY</head>
-                            <p><persName>Rose Francois</persName> and <persName>Melinda
-                                    Egeruoh</persName>
-                            </p>
-                            <p><roleName><orgName ref="#MCC">MCC</orgName> Representative to
-                                        <orgName ref="#SGA">SGA</orgName> and <orgName ref="#MCC"
-                                        >MCC</orgName> Secretary</roleName></p>
-                        </div>
-                        <div type="poetry">
-                            <head>POETRY</head>
-                            <p><persName>Samirah Gittens</persName>, </p>
-                            <p><persName>Ryan Horton</persName>, </p>
-                            <p><persName>Brett McLean</persName> &amp; </p>
-                            <p><persName>Jeremy Omard</persName></p>
-                        </div>
-                        <div type="intro">
-                            <head>HARAMBEE PRESENTATION</head>
-                            <p><persName>Chanel Easley</persName></p>
-                            <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
-                                        (<orgName ref="#MCC">MCC</orgName>) President</roleName></p>
-                        </div>
-                        <div type="intro">
-                            <head>INTRODUCTION OF MUSICAL PERFORMANCE</head>
-                            <p><persName>Emeka Egeruoh</persName></p>
-                            <p><roleName><orgName ref="#OACS">Organization of Caribbean and African
-                                        Students</orgName> (<orgName ref="#OACS">OACS</orgName>)
-                                    Representative To <orgName ref="#MCC"
-                                >MCC</orgName></roleName></p>
-                        </div>
-                        <div type="performance">
-                            <head>MUSICAL PERFORMANCE</head>
-                            <p>Cultural Centre of India</p>
-                            <p><persName>Padma Chebrolu</persName>,</p>
-                            <p><roleName>Artistic Director</roleName></p>
-                        </div>
-                        <div type="closing">
-                            <head>CLOSING REMARKS</head>
-                            <p><persName>Ryan Horton</persName></p>
-                            <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
-                                        (<orgName ref="#MCC">MCC</orgName>) Vice
-                                    President</roleName></p>
+                    <div type="page">
+                        <pb facs="images/hdp_2010-03.jpg" n="3"/>
+                        <div type="content">
+                            <div type="itinerary">
+                                <div type="welcome">
+                                    <head>WELCOME</head>
+                                    <p><persName>Chanel Easley</persName>
+                                    </p>
+                                    <p><roleName><orgName ref="#MCC">Multi-Cultural
+                                                Council</orgName> (<orgName ref="#MCC"
+                                            >MCC</orgName>) President</roleName></p>
+                                </div>
+                                <div type="invoc">
+                                    <head>INVOCATION TO HARAMBEE</head>
+                                    <p><persName>Ray Smith</persName></p>
+                                    <p><roleName><orgName ref="#ABC">Association of Black
+                                                Collegians</orgName> (<orgName ref="#ABC"
+                                                >ABC</orgName>) Representative to <orgName
+                                                ref="#MCC">MCC</orgName></roleName></p>
+                                </div>
+                                <div type="meal">
+                                    <head>DINNER</head>
+                                </div>
+                                <div type="intro">
+                                    <head>INTRODUCTION TO POETRY</head>
+                                    <p><persName>Rose Francois</persName> and <persName>Melinda
+                                            Egeruoh</persName>
+                                    </p>
+                                    <p><roleName><orgName ref="#MCC">MCC</orgName> Representative to
+                                                <orgName ref="#SGA">SGA</orgName> and <orgName
+                                                ref="#MCC">MCC</orgName> Secretary</roleName></p>
+                                </div>
+                                <div type="poetry">
+                                    <head>POETRY</head>
+                                    <p><persName>Samirah Gittens</persName>, </p>
+                                    <p><persName>Ryan Horton</persName>, </p>
+                                    <p><persName>Brett McLean</persName> &amp; </p>
+                                    <p><persName>Jeremy Omard</persName></p>
+                                </div>
+                                <div type="intro">
+                                    <head>HARAMBEE PRESENTATION</head>
+                                    <p><persName>Chanel Easley</persName></p>
+                                    <p><roleName><orgName ref="#MCC">Multi-Cultural
+                                                Council</orgName> (<orgName ref="#MCC"
+                                            >MCC</orgName>) President</roleName></p>
+                                </div>
+                                <div type="intro">
+                                    <head>INTRODUCTION OF MUSICAL PERFORMANCE</head>
+                                    <p><persName>Emeka Egeruoh</persName></p>
+                                    <p><roleName><orgName ref="#OACS">Organization of Caribbean and
+                                                African Students</orgName> (<orgName ref="#OACS"
+                                                >OACS</orgName>) Representative To <orgName
+                                                ref="#MCC">MCC</orgName></roleName></p>
+                                </div>
+                                <div type="performance">
+                                    <head>MUSICAL PERFORMANCE</head>
+                                    <p>Cultural Centre of India</p>
+                                    <p><persName>Padma Chebrolu</persName>,</p>
+                                    <p><roleName>Artistic Director</roleName></p>
+                                </div>
+                                <div type="closing">
+                                    <head>CLOSING REMARKS</head>
+                                    <p><persName>Ryan Horton</persName></p>
+                                    <p><roleName><orgName ref="#MCC">Multi-Cultural
+                                                Council</orgName> (<orgName ref="#MCC"
+                                            >MCC</orgName>) Vice President</roleName></p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </body>
             </text>
             <text xml:id="HDP2011">
                 <body>
-                    <pb facs="images/hdp_2011-01.jpg" n="1"/>
-                    <div type="frontPage">
-                        <p><date when="2011-09-28">WEDNESDAY, SEPTEMBER 28, 2011</date></p>
+                    <div type="page">
+                        <pb facs="images/hdp_2011-01.jpg" n="1"/>
+                        <div type="content">
+                            <div type="frontPage">
+                                <p><date when="2011-09-28">WEDNESDAY, SEPTEMBER 28, 2011</date></p>
 
-                        <p>Harambee is Swahili for “Let us all pull together” and originated in the
-                            country of Kenya as a slogan for national unity. Today we use this
-                            slogan as a way to unite our campus community as we celebrate HARAMBEE'S
-                            25TH ANNIVERSARY of cultural enrichment and diversity that is
-                            represented among our students, faculty, and staff. </p>
-                    </div>
-                    <pb facs="images/hdp_2011-02.jpg" n="2"/>
-                    <div type="quote">
-                        <head>UNITY</head>
-                        <quote>Majestic moon and splendid sun, all a part of everyone.</quote>
-                    </div>
-                    <div type="itinerary">
-                        <div type="gift">
-                        <head>Gift Presenters</head>
-                        <p><persName>Aubrey Puranda</persName></p>
-                        <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
-                                Treasurer</roleName></p>
-                        <p><persName>Ara Agato</persName></p>
-                        <p><roleName><orgName ref="#GASE">Trigon</orgName> President</roleName></p>
-                        <p><persName>Louis van der Elst</persName></p>
-                        <p><roleName><orgName ref="#ISO">International Student
-                                    Organization</orgName> President</roleName></p>
-                    </div>
-                    </div>
-                    <div type="menu">
-                        <p>Menu</p>
-                        <list>
-                            <item>Tossed Salad</item>
-                            <item>Stuffed Chicken</item>
-                            <item>Rice Pilaf</item>
-                            <item>Vegetable Medley</item>
-                            <item>Cheese Lasagna</item>
-                            <item>Meatballs</item>
-                            <item>Dinner Rolls</item>
-                            <item>Fountain Punch</item>
-                            <item>Decaf/Tea</item>
-                            <item>Marble Sheet Cake</item>
-                        </list>
-                    </div>
-                    <pb facs="images/hdp_2011-03.jpg" n="3"/>
-                    <div type="itinerary">
-                        <div type="welcome">
-                            <head>WELCOMING WORDS</head>
-                            <p><persName>Melinda Egeruoh</persName> &amp; Ms. <persName>Samirah
-                                    Gittens</persName></p>
-                            <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
-                                    Co-Presidents</roleName></p>
-                        </div>
-                        <div type="intro">
-                            <head>INTRODUCTION TO INVOCATION</head>
-                            <p><persName>Veronica Lorya</persName></p>
-                            <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
-                                    Representative to <orgName ref="#SGA"
-                                >SGA</orgName></roleName></p>
-                        </div>
-                        <div type="invoc">
-                            <head>INVOCATION</head>
-                            <p><persName>Jing Liu</persName> - <foreign xml:lang="zh"
-                                >刘菁华</foreign></p>
-                            <p><roleName><orgName ref="#ASO">Asian Student Organization</orgName>
-                                    President</roleName></p>
-                        </div>
-                        <div type="meal">
-                            <head>INVITATION TO DINNER</head>
-                            <p><persName>Avrian Mckoy</persName></p>
-                            <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
-                                    Historian</roleName></p>
-                        </div>
-                        <div type="intro">
-                            <head>INTRODUCTION TO SPEAKER</head>
-                            <p><persName>Jeremy O'Mard</persName></p>
-                            <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName> Vice
-                                    President</roleName></p>
-                        </div>
-                        <div type="speaker">
-                            <head>GUEST SPEAKER</head>
-                            <p><persName>Justin Jones-Fosu</persName></p>
-                            <p>Be an Active Leader for Diversity</p>
-                        </div>
-                        <div type="intro">
-                            <head>INTRODUCTION TO PERFORMANCE</head>
-                            <p><persName>Sheree Wisdom</persName></p>
-                            <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
-                                    Secretary</roleName></p>
-                        </div>
-                        <div type="performance">
-                            <head>PERFORMANCE</head>
-                            <p><persName>Marcus Santos</persName></p>
-                            <p>Brazilian Sounds</p>
-                        </div>
-                        <div type="closing">
-                            <head>CLOSING WORDS</head>
-                            <p><persName>Sha’Rayne Smith</persName></p>
-                            <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName> Public
-                                    Relations</roleName></p>
+                                <p>Harambee is Swahili for “Let us all pull together” and originated
+                                    in the country of Kenya as a slogan for national unity. Today we
+                                    use this slogan as a way to unite our campus community as we
+                                    celebrate HARAMBEE'S 25TH ANNIVERSARY of cultural enrichment and
+                                    diversity that is represented among our students, faculty, and
+                                    staff. </p>
+                            </div>
                         </div>
                     </div>
-                    <pb facs="images/hdp_2011-04.jpg" n="4"/>
-                    <div type="thanks">
-                        <head>SPECIAL THANK YOU</head>
-                        <list>
-                            <item><persName>JUSTIN JONES-FOSU</persName></item>
-                            <item><persName>MARCUS SANTOS</persName></item>
-                            <item><persName>ANDY HERRERA</persName></item>
-                            <item><persName>NICOLE FEDDERS</persName></item>
-                            <item><persName>LAURA CARROLL</persName></item>
-                            <item><orgName ref="#MCC">MULTI-CULTURAL COUNCIL</orgName> EXECUTIVE
-                                BOARD</item>
-                            <item><orgName ref="#ABC">ABC</orgName></item>
-                            <item><orgName ref="#ISO">ISO</orgName></item>
-                            <item><orgName ref="#OACS">OACS</orgName></item>
-                            <item><orgName ref="#ASO">ASO</orgName></item>
-                            <item><orgName ref="#MSA">MSA</orgName></item>
-                            <item><orgName ref="#OLAS">OLAS</orgName></item>
-                            <item><orgName ref="#HRPC">HRPC</orgName></item>
-                            <item><orgName ref="NSBE">NSBE</orgName></item>
-                            <item><orgName ref="#GASE">TRIGON</orgName></item>
-                            <item>SAF</item>
-                            <item><orgName ref="#SGA">SGA</orgName></item>
-                            <item>RUB INFORMATION DESK</item>
-                            <item>HOUSING AND FOOD SERVICES</item>
-                            <item>OFFICE OF STUDENT ACTIVITES</item>
-                            <item>ALL PAST <orgName ref="#MCC">MULTI-CULTURAL COUNCIL</orgName>
-                                MEMBERS</item>
-                        </list>
-                        <p>WE THANK YOU! </p>
+                    <div type="page">
+                        <pb facs="images/hdp_2011-02.jpg" n="2"/>
+                        <div type="content">
+                            <div type="quote">
+                                <head>UNITY</head>
+                                <quote>Majestic moon and splendid sun, all a part of
+                                    everyone.</quote>
+                            </div>
+                            <div type="itinerary">
+                                <div type="gift">
+                                    <head>Gift Presenters</head>
+                                    <p><persName>Aubrey Puranda</persName></p>
+                                    <p><roleName><orgName ref="#MCC">Multi-Cultural
+                                                Council</orgName> Treasurer</roleName></p>
+                                    <p><persName>Ara Agato</persName></p>
+                                    <p><roleName><orgName ref="#GASE">Trigon</orgName>
+                                            President</roleName></p>
+                                    <p><persName>Louis van der Elst</persName></p>
+                                    <p><roleName><orgName ref="#ISO">International Student
+                                                Organization</orgName> President</roleName></p>
+                                </div>
+                            </div>
+                            <div type="menu">
+                                <p>Menu</p>
+                                <list>
+                                    <item>Tossed Salad</item>
+                                    <item>Stuffed Chicken</item>
+                                    <item>Rice Pilaf</item>
+                                    <item>Vegetable Medley</item>
+                                    <item>Cheese Lasagna</item>
+                                    <item>Meatballs</item>
+                                    <item>Dinner Rolls</item>
+                                    <item>Fountain Punch</item>
+                                    <item>Decaf/Tea</item>
+                                    <item>Marble Sheet Cake</item>
+                                </list>
+                            </div>
+                        </div>
+                    </div>
+                    <div type="page">
+                        <pb facs="images/hdp_2011-03.jpg" n="3"/>
+                        <div type="content">
+                            <div type="itinerary">
+                                <div type="welcome">
+                                    <head>WELCOMING WORDS</head>
+                                    <p><persName>Melinda Egeruoh</persName> &amp; Ms.
+                                            <persName>Samirah Gittens</persName></p>
+                                    <p><roleName><orgName ref="#MCC">Multi-Cultural
+                                                Council</orgName> Co-Presidents</roleName></p>
+                                </div>
+                                <div type="intro">
+                                    <head>INTRODUCTION TO INVOCATION</head>
+                                    <p><persName>Veronica Lorya</persName></p>
+                                    <p><roleName><orgName ref="#MCC">Multi-Cultural
+                                                Council</orgName> Representative to <orgName
+                                                ref="#SGA">SGA</orgName></roleName></p>
+                                </div>
+                                <div type="invoc">
+                                    <head>INVOCATION</head>
+                                    <p><persName>Jing Liu</persName> - <foreign xml:lang="zh"
+                                            >刘菁华</foreign></p>
+                                    <p><roleName><orgName ref="#ASO">Asian Student
+                                                Organization</orgName> President</roleName></p>
+                                </div>
+                                <div type="meal">
+                                    <head>INVITATION TO DINNER</head>
+                                    <p><persName>Avrian Mckoy</persName></p>
+                                    <p><roleName><orgName ref="#MCC">Multi-Cultural
+                                                Council</orgName> Historian</roleName></p>
+                                </div>
+                                <div type="intro">
+                                    <head>INTRODUCTION TO SPEAKER</head>
+                                    <p><persName>Jeremy O'Mard</persName></p>
+                                    <p><roleName><orgName ref="#MCC">Multi-Cultural
+                                                Council</orgName> Vice President</roleName></p>
+                                </div>
+                                <div type="speaker">
+                                    <head>GUEST SPEAKER</head>
+                                    <p><persName>Justin Jones-Fosu</persName></p>
+                                    <p>Be an Active Leader for Diversity</p>
+                                </div>
+                                <div type="intro">
+                                    <head>INTRODUCTION TO PERFORMANCE</head>
+                                    <p><persName>Sheree Wisdom</persName></p>
+                                    <p><roleName><orgName ref="#MCC">Multi-Cultural
+                                                Council</orgName> Secretary</roleName></p>
+                                </div>
+                                <div type="performance">
+                                    <head>PERFORMANCE</head>
+                                    <p><persName>Marcus Santos</persName></p>
+                                    <p>Brazilian Sounds</p>
+                                </div>
+                                <div type="closing">
+                                    <head>CLOSING WORDS</head>
+                                    <p><persName>Sha’Rayne Smith</persName></p>
+                                    <p><roleName><orgName ref="#MCC">Multi-Cultural
+                                                Council</orgName> Public Relations</roleName></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div type="page">
+                        <pb facs="images/hdp_2011-04.jpg" n="4"/>
+                        <div type="content">
+                            <div type="thanks">
+                                <head>SPECIAL THANK YOU</head>
+                                <list>
+                                    <item><persName>JUSTIN JONES-FOSU</persName></item>
+                                    <item><persName>MARCUS SANTOS</persName></item>
+                                    <item><persName>ANDY HERRERA</persName></item>
+                                    <item><persName>NICOLE FEDDERS</persName></item>
+                                    <item><persName>LAURA CARROLL</persName></item>
+                                    <item><orgName ref="#MCC">MULTI-CULTURAL COUNCIL</orgName>
+                                        EXECUTIVE BOARD</item>
+                                    <item><orgName ref="#ABC">ABC</orgName></item>
+                                    <item><orgName ref="#ISO">ISO</orgName></item>
+                                    <item><orgName ref="#OACS">OACS</orgName></item>
+                                    <item><orgName ref="#ASO">ASO</orgName></item>
+                                    <item><orgName ref="#MSA">MSA</orgName></item>
+                                    <item><orgName ref="#OLAS">OLAS</orgName></item>
+                                    <item><orgName ref="#HRPC">HRPC</orgName></item>
+                                    <item><orgName ref="NSBE">NSBE</orgName></item>
+                                    <item><orgName ref="#GASE">TRIGON</orgName></item>
+                                    <item>SAF</item>
+                                    <item><orgName ref="#SGA">SGA</orgName></item>
+                                    <item>RUB INFORMATION DESK</item>
+                                    <item>HOUSING AND FOOD SERVICES</item>
+                                    <item>OFFICE OF STUDENT ACTIVITES</item>
+                                    <item>ALL PAST <orgName ref="#MCC">MULTI-CULTURAL
+                                            COUNCIL</orgName> MEMBERS</item>
+                                </list>
+                                <p>WE THANK YOU! </p>
+                            </div>
+                        </div>
                     </div>
                 </body>
             </text>
             <text xml:id="HDP2013">
                 <body>
-                    <pb facs="images/hdp_2013-01.jpg" n="1"/>
-                    <div type="frontPage">
-                        <p>Welcome to the 27th Annual Harambee Dinner <date when="2013-10-17"
-                                >Thursday, October 17, 2013</date></p>
+                    <div type="page">
+                        <pb facs="images/hdp_2013-01.jpg" n="1"/>
+                        <div type="content">
+                            <div type="frontPage">
+                                <p>Welcome to the 27th Annual Harambee Dinner <date
+                                        when="2013-10-17">Thursday, October 17, 2013</date></p>
 
-                        <p>Harambee is Swahili for “Let us all pull together”, it originated in the
-                            country of Kenya as a slogan for national unity. We use this celebration
-                            as a way to unite our campus community and to celebrate the culture and
-                            richness of diversity represented among our students, faculty and
-                            staff.</p>
-                    </div>
-                    <pb facs="images/hdp_2013-02.jpg" n="2"/>
-                    <div type="quote">
-                        <head>UNITY</head>
-                        <quote>We are only as strong as we are united, as weak as we are
-                            divided.</quote>
-                    </div>
-                    <div type="itinerary">
-                        <div type="gift">
-                            <head>Gifts Presenter</head>
-                            <p><persName>Khardiata Mbengue</persName></p>
-                            <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
-                                    Promotions Coordinator</roleName></p>
+                                <p>Harambee is Swahili for “Let us all pull together”, it originated
+                                    in the country of Kenya as a slogan for national unity. We use
+                                    this celebration as a way to unite our campus community and to
+                                    celebrate the culture and richness of diversity represented
+                                    among our students, faculty and staff.</p>
+                            </div>
                         </div>
                     </div>
-                    <div type="menu">
-                        <head>Меnu</head>
-                        <list>
-                            <item>Tossed Salad</item>
-                            <item>Stuffed Chicken</item>
-                            <item>Rice Pilaf</item>
-                            <item>Vegetable Medley</item>
-                            <item>Cheese Lasagna</item>
-                            <item>Meatballs</item>
-                            <item>Dinner Rolls</item>
-                            <item>Fountain Punch</item>
-                            <item>Decaf/Tea</item>
-                            <item>Marble Sheet Cake</item>
-                        </list>
-                    </div>
-                    <div type="celebrating">
-                        <p> Celebrating 27 years of unity at PSU Behrend! </p>
-                    </div>
-                    <pb facs="images/hdp_2013-03.jpg" n="3"/>
-                    <div type="itinerary">
-                        <div type="welcome">
-                            <head>WELCOME</head>
-                            <p><persName>Veronica Lorya</persName> and <persName>Sha'Rayne
-                                    Smith</persName></p>
-                            <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
-                                        (<orgName ref="#MCC">MCC</orgName>) President and
-                                    Vice-President</roleName></p>
-                        </div>
-                        <div type="invoc intro">
-                            <head>INVOCATION</head>
-                            <head>INVITATION TO DINNER</head>
-                            <p><persName>Erik Vazquez</persName></p>
-                            <p><roleName><orgName>Muslim Student Association</orgName> (<orgName
-                                        ref="#MSA">MSA</orgName>) Vice-President</roleName></p>
-                        </div>
-                        <div type="intro">
-                            <head>INTRODUCTION TO SPEAKER</head>
-                            <p><persName>Sheree Wisdom</persName> and <persName>Ashanae
-                                    Walker</persName></p>
-                            <p><roleName><orgName ref="#MCC">MCC</orgName> Secretary and <orgName
-                                        ref="#MCC">MCC</orgName> Historian</roleName></p>
-                        </div>
-                        <div type="speaker">
-                            <head>GUEST SPEAKER</head>
-                            <p><persName>Teja Arboleda</persName></p>
-                        </div>
-                        <div type="intro">
-                            <head>INTRODUCTION TO PERFORMANCE</head>
-                            <p><persName>Freddy Possian</persName></p>
-                            <p><roleName><orgName ref="#MCC">MCC</orgName> Representative to
-                                        <orgName ref="#SGA">SGA</orgName></roleName></p>
-                        </div>
-                        <div type="performance">
-                            <head>PERFORMANCE</head>
-                            <p>Bhutanese Dancers</p>
-                        </div>
-                        <div type="closing">
-                            <head>CLOSING REMARKS</head>
-                            <p><persName>Veronica Lorya</persName></p>
-                            <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
-                                        (<orgName ref="#MCC">MCC</orgName>) President</roleName></p>
+                    <div type="page">
+                        <pb facs="images/hdp_2013-02.jpg" n="2"/>
+                        <div type="content">
+                            <div type="quote">
+                                <head>UNITY</head>
+                                <quote>We are only as strong as we are united, as weak as we are
+                                    divided.</quote>
+                            </div>
+                            <div type="itinerary">
+                                <div type="gift">
+                                    <head>Gifts Presenter</head>
+                                    <p><persName>Khardiata Mbengue</persName></p>
+                                    <p><roleName><orgName ref="#MCC">Multi-Cultural
+                                                Council</orgName> Promotions
+                                        Coordinator</roleName></p>
+                                </div>
+                            </div>
+                            <div type="menu">
+                                <head>Меnu</head>
+                                <list>
+                                    <item>Tossed Salad</item>
+                                    <item>Stuffed Chicken</item>
+                                    <item>Rice Pilaf</item>
+                                    <item>Vegetable Medley</item>
+                                    <item>Cheese Lasagna</item>
+                                    <item>Meatballs</item>
+                                    <item>Dinner Rolls</item>
+                                    <item>Fountain Punch</item>
+                                    <item>Decaf/Tea</item>
+                                    <item>Marble Sheet Cake</item>
+                                </list>
+                            </div>
+                            <div type="celebrating">
+                                <p> Celebrating 27 years of unity at PSU Behrend! </p>
+                            </div>
                         </div>
                     </div>
-                    <pb facs="images/hdp_2013-04.jpg" n="4"/>
-                    <div type="thanks">
-                        <head>SPECIAL THANK YOU</head> 
-                        <list>
-                                <item><persName>Teja Arbolada</persName></item>
-                                <item>Bhutanese Community Association</item>
-                                <item><persName>Andy Herrera</persName></item>
-                                <item><persName>Nicole Fedders</persName></item>
-                                <item><persName>Nyima Porter</persName></item>
-                                <item><orgName ref="#MCC">Multi-Cultural Council</orgName> Executive
-                                    Board</item>
-                                <item><orgName ref="#ABC">ABC</orgName></item>
-                                <item><orgName ref="#ASO">ASO</orgName></item>
-                                <item><orgName ref="#HRPC">HRPC</orgName></item>
-                                <item><orgName ref="#ISO">ISO</orgName></item>
-                                <item><orgName ref="#MSA">MSA</orgName></item>
-                                <item><orgName ref="NSBE">NSBE</orgName></item>
-                                <item><orgName ref="#OACS">OACS</orgName></item>
-                                <item><orgName ref="#OLAS">OLAS</orgName></item>
-                                <item><orgName ref="#GASE">Trigon</orgName></item>
-                                <item><orgName ref="#WT">WT</orgName></item>
-                                <item>SAF</item>
-                                <item><orgName ref="#SGA">SGA</orgName></item>
-                                <item>RUB Information Desk</item>
-                                <item>Housing and Food Services</item>
-                                <item>Office of Student Activates</item>
-                                <item><orgName ref="#MCC">Multi-Cultural Council</orgName></item>
-                                <item>Office of Educational Equity &amp; Diversity Programs</item>
-                            </list> 
-                        <p>Celebrating diversity on campus!</p>
+                    <div type="page">
+                        <pb facs="images/hdp_2013-03.jpg" n="3"/>
+                        <div type="content">
+                            <div type="itinerary">
+                                <div type="welcome">
+                                    <head>WELCOME</head>
+                                    <p><persName>Veronica Lorya</persName> and <persName>Sha'Rayne
+                                            Smith</persName></p>
+                                    <p><roleName><orgName ref="#MCC">Multi-Cultural
+                                                Council</orgName> (<orgName ref="#MCC"
+                                            >MCC</orgName>) President and
+                                        Vice-President</roleName></p>
+                                </div>
+                                <div type="invoc intro">
+                                    <head>INVOCATION</head>
+                                    <head>INVITATION TO DINNER</head>
+                                    <p><persName>Erik Vazquez</persName></p>
+                                    <p><roleName><orgName>Muslim Student Association</orgName>
+                                                (<orgName ref="#MSA">MSA</orgName>)
+                                            Vice-President</roleName></p>
+                                </div>
+                                <div type="intro">
+                                    <head>INTRODUCTION TO SPEAKER</head>
+                                    <p><persName>Sheree Wisdom</persName> and <persName>Ashanae
+                                            Walker</persName></p>
+                                    <p><roleName><orgName ref="#MCC">MCC</orgName> Secretary and
+                                                <orgName ref="#MCC">MCC</orgName>
+                                            Historian</roleName></p>
+                                </div>
+                                <div type="speaker">
+                                    <head>GUEST SPEAKER</head>
+                                    <p><persName>Teja Arboleda</persName></p>
+                                </div>
+                                <div type="intro">
+                                    <head>INTRODUCTION TO PERFORMANCE</head>
+                                    <p><persName>Freddy Possian</persName></p>
+                                    <p><roleName><orgName ref="#MCC">MCC</orgName> Representative to
+                                                <orgName ref="#SGA">SGA</orgName></roleName></p>
+                                </div>
+                                <div type="performance">
+                                    <head>PERFORMANCE</head>
+                                    <p>Bhutanese Dancers</p>
+                                </div>
+                                <div type="closing">
+                                    <head>CLOSING REMARKS</head>
+                                    <p><persName>Veronica Lorya</persName></p>
+                                    <p><roleName><orgName ref="#MCC">Multi-Cultural
+                                                Council</orgName> (<orgName ref="#MCC"
+                                            >MCC</orgName>) President</roleName></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div type="page">
+                        <pb facs="images/hdp_2013-04.jpg" n="4"/>
+                        <div type="content">
+                            <div type="thanks">
+                                <head>SPECIAL THANK YOU</head>
+                                <list>
+                                    <item><persName>Teja Arbolada</persName></item>
+                                    <item>Bhutanese Community Association</item>
+                                    <item><persName>Andy Herrera</persName></item>
+                                    <item><persName>Nicole Fedders</persName></item>
+                                    <item><persName>Nyima Porter</persName></item>
+                                    <item><orgName ref="#MCC">Multi-Cultural Council</orgName>
+                                        Executive Board</item>
+                                    <item><orgName ref="#ABC">ABC</orgName></item>
+                                    <item><orgName ref="#ASO">ASO</orgName></item>
+                                    <item><orgName ref="#HRPC">HRPC</orgName></item>
+                                    <item><orgName ref="#ISO">ISO</orgName></item>
+                                    <item><orgName ref="#MSA">MSA</orgName></item>
+                                    <item><orgName ref="NSBE">NSBE</orgName></item>
+                                    <item><orgName ref="#OACS">OACS</orgName></item>
+                                    <item><orgName ref="#OLAS">OLAS</orgName></item>
+                                    <item><orgName ref="#GASE">Trigon</orgName></item>
+                                    <item><orgName ref="#WT">WT</orgName></item>
+                                    <item>SAF</item>
+                                    <item><orgName ref="#SGA">SGA</orgName></item>
+                                    <item>RUB Information Desk</item>
+                                    <item>Housing and Food Services</item>
+                                    <item>Office of Student Activates</item>
+                                    <item><orgName ref="#MCC">Multi-Cultural
+                                        Council</orgName></item>
+                                    <item>Office of Educational Equity &amp; Diversity
+                                        Programs</item>
+                                </list>
+                                <p>Celebrating diversity on campus!</p>
+                            </div>
+                        </div>
                     </div>
                 </body>
             </text>
             <text xml:id="HDP2018">
                 <body>
-                    <pb facs="images/hdp_2018-01.jpg" n="1"/>
-                    <div type="frontPage">
-                        <p><date when="2018-10-04">October 04, 2018</date> Celebrating 32 Years of
-                            Unity at Behrend</p>
-                        <p>Harambee is Swahili for "Let us all pull together”. It originated in the
-                            country of Kenya as a slogan for national unity. Today we use this
-                            slogan as a way to unite our campus community and to celebrate the
-                            richness of cultures and diversity represented among our students,
-                            faculty, and staff. </p>
-                    </div>
-                    <pb facs="images/hdp_2018-02.jpg" n="2"/>
-                    <div type="itinerary">
-                        <p>Itinerary</p>
-                        <div type="welcome">
-                            <head>Welcome Words</head>
-                            <p><persName>Andy Herrera</persName></p>
-                            <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
-                                        (<orgName ref="#MCC">MCC</orgName>) Adviser</roleName></p>
-                        </div>
-                        <div type="intro">
-                            <head>Welcome to Invocation</head>
-                            <p><persName>Elizabeth Malomo</persName> and <persName>Karen
-                                    Hor</persName></p>
-                            <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
-                                        (<orgName ref="#MCC">MCC</orgName>) President and
-                                    Vice-President</roleName></p>
-                        </div>
-                        <div type="invoc">
-                            <head>Invocation</head>
-                            <p><persName>Ricardo Rodriguez</persName></p>
-                            <p><roleName>PSB Model United Nations (PSBMUN) President</roleName></p>
-                        </div>
-                        <div type="meal">
-                            <head>Invitation to Dinner</head>
-                            <p><persName>Priya Patel</persName></p>
-                            <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
-                                        (<orgName ref="#MCC">MCC</orgName>) Secretary</roleName></p>
-                        </div>
-                        <div type="intro">
-                            <head>Introduction of Speaker</head>
-                            <p><persName>Madison Jerrell</persName></p>
-                            <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
-                                        (<orgName ref="#MCC">MCC</orgName>) Representative to
-                                        <orgName ref="#SGA">SGA</orgName></roleName></p>
-                        </div>
-                        <div type="speaker">
-                            <head>Guest Speaker</head>
-                            <p><persName>Shinjini Das</persName></p>
-                            <p><roleName>The Go-Getter Girl!</roleName></p>
-                        </div>
-                        <div type="intro">
-                            <head>Introduction of Performance</head>
-                            <p><persName>Hector Rios-Jaime</persName></p>
-                            <p><roleName><orgName ref="#MCC">Multi-Cultural Council</orgName>
-                                        (<orgName ref="#MCC">MCC</orgName>) Promotions
-                                    Coordinator</roleName></p>
-                        </div>
-                        <div type="performance">
-                            <head>Musical Performance</head>
-                            <p><persName>Mestre Efraim Silva</persName> Brazilian Capoeira &amp;
-                                Sounds</p>
+                    <div type="page">
+                        <pb facs="images/hdp_2018-01.jpg" n="1"/>
+                        <div type="content">
+                            <div type="frontPage">
+                                <p><date when="2018-10-04">October 04, 2018</date> Celebrating 32
+                                    Years of Unity at Behrend</p>
+                                <p>Harambee is Swahili for "Let us all pull together”. It originated
+                                    in the country of Kenya as a slogan for national unity. Today we
+                                    use this slogan as a way to unite our campus community and to
+                                    celebrate the richness of cultures and diversity represented
+                                    among our students, faculty, and staff. </p>
+                            </div>
                         </div>
                     </div>
-                    <pb facs="images/hdp_2018-03.jpg" n="3"/>
-                    <div type="thanks">
-                        <head>We Thank You</head> 
-                        <list>
-                                <item>Our Advisor <persName>Andy A. Herrera</persName></item>
-                                <item><persName>Shinjini Das</persName></item>
-                                <item><persName>Mestre Efraim Silva</persName> &amp; Dancers</item>
-                                <item> Student Activity Fee</item>
-                                <item>Office of Student Leadership &amp; Involvement</item>
-                                <item>Housing and Food Services</item>
-                                <item><orgName ref="#MCC">MCC</orgName> Executive Board</item>
-                                <item><orgName ref="#AAUW">AAUW</orgName></item>
-                                <item><orgName ref="#ABC">ABC</orgName></item>
-                                <item><orgName ref="#ASO">ASO</orgName></item>
-                                <item><orgName ref="#CCAC">CCAC</orgName></item>
-                                <item><orgName ref="#CCC">CCC</orgName></item>
-                                <item><orgName ref="#HRPC">HRPC</orgName></item>
-                                <item><orgName ref="#ISO">ISO</orgName></item>
-                                <item><orgName ref="#MSA">MSA</orgName></item>
-                                <item><orgName ref="NSBE">NSBE</orgName></item>
-                                <item><orgName ref="#OACS">OACS</orgName></item>
-                                <item><orgName ref="#OLAS">OLAS</orgName></item>
-                                <item><orgName ref="#SASO">SASO</orgName></item>
-                                <item><orgName ref="#GASE">GASE</orgName></item>
-                                <item><orgName ref="#MCC">MCC</orgName> Organization Advisors</item>
-                            </list>
+                    <div type="page">
+                        <pb facs="images/hdp_2018-02.jpg" n="2"/>
+                        <div type="content">
+                            <div type="itinerary">
+                                <p>Itinerary</p>
+                                <div type="welcome">
+                                    <head>Welcome Words</head>
+                                    <p><persName>Andy Herrera</persName></p>
+                                    <p><roleName><orgName ref="#MCC">Multi-Cultural
+                                                Council</orgName> (<orgName ref="#MCC"
+                                            >MCC</orgName>) Adviser</roleName></p>
+                                </div>
+                                <div type="intro">
+                                    <head>Welcome to Invocation</head>
+                                    <p><persName>Elizabeth Malomo</persName> and <persName>Karen
+                                            Hor</persName></p>
+                                    <p><roleName><orgName ref="#MCC">Multi-Cultural
+                                                Council</orgName> (<orgName ref="#MCC"
+                                            >MCC</orgName>) President and
+                                        Vice-President</roleName></p>
+                                </div>
+                                <div type="invoc">
+                                    <head>Invocation</head>
+                                    <p><persName>Ricardo Rodriguez</persName></p>
+                                    <p><roleName>PSB Model United Nations (PSBMUN)
+                                            President</roleName></p>
+                                </div>
+                                <div type="meal">
+                                    <head>Invitation to Dinner</head>
+                                    <p><persName>Priya Patel</persName></p>
+                                    <p><roleName><orgName ref="#MCC">Multi-Cultural
+                                                Council</orgName> (<orgName ref="#MCC"
+                                            >MCC</orgName>) Secretary</roleName></p>
+                                </div>
+                                <div type="intro">
+                                    <head>Introduction of Speaker</head>
+                                    <p><persName>Madison Jerrell</persName></p>
+                                    <p><roleName><orgName ref="#MCC">Multi-Cultural
+                                                Council</orgName> (<orgName ref="#MCC"
+                                            >MCC</orgName>) Representative to <orgName ref="#SGA"
+                                                >SGA</orgName></roleName></p>
+                                </div>
+                                <div type="speaker">
+                                    <head>Guest Speaker</head>
+                                    <p><persName>Shinjini Das</persName></p>
+                                    <p><roleName>The Go-Getter Girl!</roleName></p>
+                                </div>
+                                <div type="intro">
+                                    <head>Introduction of Performance</head>
+                                    <p><persName>Hector Rios-Jaime</persName></p>
+                                    <p><roleName><orgName ref="#MCC">Multi-Cultural
+                                                Council</orgName> (<orgName ref="#MCC"
+                                            >MCC</orgName>) Promotions Coordinator</roleName></p>
+                                </div>
+                                <div type="performance">
+                                    <head>Musical Performance</head>
+                                    <p><persName>Mestre Efraim Silva</persName> Brazilian Capoeira
+                                        &amp; Sounds</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div type="page">
+                            <pb facs="images/hdp_2018-03.jpg" n="3"/>
+                            <div type="content">
+                                <div type="thanks">
+                                    <head>We Thank You</head>
+                                    <list>
+                                        <item>Our Advisor <persName>Andy A.
+                                            Herrera</persName></item>
+                                        <item><persName>Shinjini Das</persName></item>
+                                        <item><persName>Mestre Efraim Silva</persName> &amp;
+                                            Dancers</item>
+                                        <item> Student Activity Fee</item>
+                                        <item>Office of Student Leadership &amp; Involvement</item>
+                                        <item>Housing and Food Services</item>
+                                        <item><orgName ref="#MCC">MCC</orgName> Executive
+                                            Board</item>
+                                        <item><orgName ref="#AAUW">AAUW</orgName></item>
+                                        <item><orgName ref="#ABC">ABC</orgName></item>
+                                        <item><orgName ref="#ASO">ASO</orgName></item>
+                                        <item><orgName ref="#CCAC">CCAC</orgName></item>
+                                        <item><orgName ref="#CCC">CCC</orgName></item>
+                                        <item><orgName ref="#HRPC">HRPC</orgName></item>
+                                        <item><orgName ref="#ISO">ISO</orgName></item>
+                                        <item><orgName ref="#MSA">MSA</orgName></item>
+                                        <item><orgName ref="NSBE">NSBE</orgName></item>
+                                        <item><orgName ref="#OACS">OACS</orgName></item>
+                                        <item><orgName ref="#OLAS">OLAS</orgName></item>
+                                        <item><orgName ref="#SASO">SASO</orgName></item>
+                                        <item><orgName ref="#GASE">GASE</orgName></item>
+                                        <item><orgName ref="#MCC">MCC</orgName> Organization
+                                            Advisors</item>
+                                    </list>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </body>
             </text>
