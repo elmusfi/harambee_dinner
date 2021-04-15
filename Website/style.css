@@ -74,3 +74,12 @@ table.programs td{
     padding-top: 0px;
     padding-bottom: 0px;
 }
+h2 {
+    text-align: center;
+}
+div.prognav table{
+    width: 100%;
+}
+div.prognav td {
+    text-align: center;
+}

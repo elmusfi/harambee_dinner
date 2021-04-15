@@ -29,6 +29,15 @@
                 <body>
                     <xsl:comment>#include virtual="menu.html" </xsl:comment>
                     <div><xsl:apply-templates/></div>
+                    <div class="prognav">
+                        <table>
+                            <tr>
+                                <xsl:if test="preceding-sibling::text[1]"><td><a href="{preceding-sibling::text[1]/@xml:id}.html">⟵ Previous</a></td></xsl:if>
+                                <td><a href="programs.html">Back to Programs</a></td>
+                                <xsl:if test="following-sibling::text[1]"><td><a href="{following-sibling::text[1]/@xml:id}.html">Next ⟶</a></td></xsl:if>
+                            </tr>
+                        </table>
+                    </div>
                 </body></html>
         </xsl:result-document>
     </xsl:template>

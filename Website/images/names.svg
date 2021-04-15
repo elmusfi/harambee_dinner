@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 400 -300">
+   <g transform="translate(50, 500)"><!--andy herrera-->
+      <g id="andy_herrera"><!--2001 2003 2008 2009 2010 2011 2013 2018-->
+         <text x="50"
+               y="20"
+               fill="#000000"
+               font-weight="bold"
+               style="text-anchor: middle"
+               font-size="10"
+               font-family="Georgia">Andy Herrera</text>
+         <line x1="50"
+               y1="0"
+               x2="50"
+               y2="-150"
+               stroke-width="40"
+               stroke="#F7D723"/>
+         <text x="50"
+               y="-160"
+               fill="black"
+               font-weight="bold"
+               font-size="20"
+               font-family="Georgia"
+               style="text-anchor: middle">6</text>
+      </g>
+      <!--jacqueline jackson-->
+      <g id="jacqueline_jackson"><!--2001-->
+         <text x="150"
+               y="20"
+               fill="#000000"
+               font-weight="bold"
+               style="text-anchor: middle"
+               font-size="10"
+               font-family="Georgia">Jacqueline Jackson</text>
+         <line x1="150"
+               y1="0"
+               x2="150"
+               y2="-75"
+               stroke-width="40"
+               stroke="#F7D723"/>
+         <text x="150"
+               y="-85"
+               fill="black"
+               font-weight="bold"
+               font-size="20"
+               font-family="Georgia"
+               style="text-anchor: middle">3</text>
+      </g>
+      <!--ryan horton-->
+      <g id="ryan_horton"><!--2001 2003 2008 2009 2010-->
+         <text x="250"
+               y="20"
+               fill="#000000"
+               font-weight="bold"
+               style="text-anchor: middle"
+               font-size="10"
+               font-family="Georgia">Ryan Horton</text>
+         <line x1="250"
+               y1="0"
+               x2="250"
+               y2="-75"
+               stroke-width="40"
+               stroke="#F7D723"/>
+         <text x="250"
+               y="-85"
+               fill="black"
+               font-weight="bold"
+               font-size="20"
+               font-family="Georgia"
+               style="text-anchor: middle">3</text>
+      </g>
+      <!--samirah gittens-->
+      <g id="samirah_gittens"><!--2001 2003 2008 2009 2010 2011-->
+         <text x="350"
+               y="20"
+               fill="#000000"
+               font-weight="bold"
+               style="text-anchor: middle"
+               font-size="10"
+               font-family="Georgia">Samirah Gittens</text>
+         <line x1="350"
+               y1="0"
+               x2="350"
+               y2="-75"
+               stroke-width="40"
+               stroke="#F7D723"/>
+         <text x="350"
+               y="-85"
+               fill="black"
+               font-weight="bold"
+               font-size="20"
+               font-family="Georgia"
+               style="text-anchor: middle">3</text>
+      </g>
+      <!--nicole fedders-->
+      <g id="nicole_fedders"><!--2001 2003 2008 2009 2010 2011 2013-->
+         <text x="450"
+               y="20"
+               fill="#000000"
+               font-weight="bold"
+               style="text-anchor: middle"
+               font-size="10"
+               font-family="Georgia">Nicole Fedders</text>
+         <line x1="450"
+               y1="0"
+               x2="450"
+               y2="-75"
+               stroke-width="40"
+               stroke="#F7D723"/>
+         <text x="450"
+               y="-85"
+               fill="black"
+               font-weight="bold"
+               font-size="20"
+               font-family="Georgia"
+               style="text-anchor: middle">3</text>
+      </g>
+      <!--veronica lorya-->
+      <g id="veronica_lorya"><!--2001 2003 2008 2009 2010 2011 2013-->
+         <text x="550"
+               y="20"
+               fill="#000000"
+               font-weight="bold"
+               style="text-anchor: middle"
+               font-size="10"
+               font-family="Georgia">Veronica Lorya</text>
+         <line x1="550"
+               y1="0"
+               x2="550"
+               y2="-75"
+               stroke-width="40"
+               stroke="#F7D723"/>
+         <text x="550"
+               y="-85"
+               fill="black"
+               font-weight="bold"
+               font-size="20"
+               font-family="Georgia"
+               style="text-anchor: middle">3</text>
+      </g>
+      <!--khalif rhodes-->
+      <g id="khalif_rhodes"><!--2001-->
+         <text x="650"
+               y="20"
+               fill="#000000"
+               font-weight="bold"
+               style="text-anchor: middle"
+               font-size="10"
+               font-family="Georgia">Khalif Rhodes</text>
+         <line x1="650"
+               y1="0"
+               x2="650"
+               y2="-50"
+               stroke-width="40"
+               stroke="#F7D723"/>
+         <text x="650"
+               y="-60"
+               fill="black"
+               font-weight="bold"
+               font-size="20"
+               font-family="Georgia"
+               style="text-anchor: middle">2</text>
+      </g>
+      <!--adrianne abney-->
+      <g id="adrianne_abney"><!--2001-->
+         <text x="750"
+               y="20"
+               fill="#000000"
+               font-weight="bold"
+               style="text-anchor: middle"
+               font-size="10"
+               font-family="Georgia">Adrianne Abney</text>
+         <line x1="750"
+               y1="0"
+               x2="750"
+               y2="-50"
+               stroke-width="40"
+               stroke="#F7D723"/>
+         <text x="750"
+               y="-60"
+               fill="black"
+               font-weight="bold"
+               font-size="20"
+               font-family="Georgia"
+               style="text-anchor: middle">2</text>
+      </g>
+      <!--edalia george-->
+      <g id="edalia_george"><!--2001 2003-->
+         <text x="850"
+               y="20"
+               fill="#000000"
+               font-weight="bold"
+               style="text-anchor: middle"
+               font-size="10"
+               font-family="Georgia">Edalia George</text>
+         <line x1="850"
+               y1="0"
+               x2="850"
+               y2="-50"
+               stroke-width="40"
+               stroke="#F7D723"/>
+         <text x="850"
+               y="-60"
+               fill="black"
+               font-weight="bold"
+               font-size="20"
+               font-family="Georgia"
+               style="text-anchor: middle">2</text>
+      </g>
+      <!--dollissa stevens-->
+      <g id="dollissa_stevens"><!--2001-->
+         <text x="950"
+               y="20"
+               fill="#000000"
+               font-weight="bold"
+               style="text-anchor: middle"
+               font-size="10"
+               font-family="Georgia">Dollissa Stevens</text>
+         <line x1="950"
+               y1="0"
+               x2="950"
+               y2="-50"
+               stroke-width="40"
+               stroke="#F7D723"/>
+         <text x="950"
+               y="-60"
+               fill="black"
+               font-weight="bold"
+               font-size="20"
+               font-family="Georgia"
+               style="text-anchor: middle">2</text>
+      </g>
+      <!--hayes moses-->
+      <!--duane ramseur-->
+      <!--rick doran-->
+      <!--forrest parker-->
+      <!--tom-->
+      <!--susana
+                                            evert-->
+      <!--earl bass-->
+      <!--elton armady-->
+      <!--crystal lake-->
+      <!--melinda egeruoh-->
+      <!--marvin worthy-->
+      <!--icho daiko-->
+      <!--chanel easley-->
+      <!--justin jones-fosu-->
+      <!--sheree wisdom-->
+      <!--marcus santos-->
+      <!--shinjini das-->
+      <!--mestre efraim silva-->
+      <!--nikki giovani-->
+      <!--kim moses-->
+      <!--chris buchanan-->
+      <!--mila cooper-->
+      <!--jerri corley-->
+      <!--kamilah gordon-->
+      <!--diana malinowski-->
+      <!--stacey mccoy-->
+      <!--ken miller-->
+      <!--cory price-->
+      <!--chris rizzo-->
+      <!--kimberly smith-->
+      <!--kris motta-torok-->
+      <!--al vogan-->
+      <!--shirelle evans-->
+      <!--sun ryan tusi-->
+      <!--alima polley-->
+      <!--sunny yang-->
+      <!--olga nacalaban-->
+      <!--jessica dearolf-->
+      <!--george morgan-->
+      <!--nana osei-bansu-->
+      <!--tabitha chase-->
+      <!--judy glembocki-->
+      <!--bryan campbell-->
+      <!--adell coleman-->
+      <!--deb workman-->
+      <!--pascale
+                                            barthelemy-->
+      <!--paris norwood-->
+      <!--azeem-->
+      <!--marcia sanchez loebick-->
+      <!--dawn richards-->
+      <!--virginia rodgers-->
+      <!--vetta stepanyan-->
+      <!--mohamed salah-->
+      <!--pascale barthelemy-->
+      <!--ray smith-->
+      <!--rose francois-->
+      <!--melinda
+                                            egeruoh-->
+      <!--brett mclean-->
+      <!--jeremy omard-->
+      <!--emeka egeruoh-->
+      <!--padma chebrolu-->
+      <!--aubrey puranda-->
+      <!--ara agato-->
+      <!--louis van der elst-->
+      <!--jing liu-->
+      <!--avrian mckoy-->
+      <!--jeremy o'mard-->
+      <!--sha’rayne smith-->
+      <!--laura carroll-->
+      <!--khardiata mbengue-->
+      <!--sha'rayne
+                                            smith-->
+      <!--erik vazquez-->
+      <!--ashanae
+                                            walker-->
+      <!--teja arboleda-->
+      <!--freddy possian-->
+      <!--teja arbolada-->
+      <!--nyima porter-->
+      <!--elizabeth malomo-->
+      <!--karen
+                                            hor-->
+      <!--ricardo rodriguez-->
+      <!--priya patel-->
+      <!--madison jerrell-->
+      <!--hector rios-jaime-->
+      <!--andy a.
+                                            herrera-->
+      <line x1="0" y1="0" x2="1000" y2="0" stroke="#505152"/>
+      <line x1="0" y1="0" x2="0" y2="-250" stroke="#505152"/>
+      <text x="500"
+            y="-260"
+            font-family="Georgia"
+            fill="#AD1800"
+            style="text-anchor: middle"
+            font-size="35">10 Most Common People Mentioned at Harambee Dinners</text>
+      <text x="500"
+            y="70"
+            fill="#AD1800"
+            style="text-anchor: middle"
+            font-family="Arial"
+            font-size="20">Name</text>
+      <text x="-125"
+            y="230"
+            fill="#AD1800"
+            style="text-anchor: middle"
+            transform="rotate(90,100,100)"
+            font-family="Arial"
+            font-size="18">Number of Mentions</text>
+   </g>
+</svg>
